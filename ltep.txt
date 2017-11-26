@@ -1,0 +1,33 @@
+LONG-TERM ECONOMIC PLAN DIRECTIVE
+
+List of types:
+metadata (metadata), wherein dict
+  article-author
+  work-author
+  date
+  category ie. the first tier category for front page purposes
+  tags nb. can include other categories, but merely secondarily
+  title, wherein ordered non-implied
+    tb (non-article author or content creator eg. society or writer in title ie. bold)
+    tn (normal title text ie. normal)
+    ti (italic title text ie. name of work reviewed)
+
+content, wherein
+  section, wherein
+    h (header)
+    img (image), v (video), a (audio), wherein as an ordered list are
+      type ie. is this an external link or an internal link
+      content
+    p (paragraph), wherein
+      p-b (non-article author or content creator)
+      p-n (normal text)
+      p-i (name of work)
+      p-l (link), wherein ordered implied
+        type ie. is this an external link or an internal link
+        content
+
+Sections:
+Culture
+Political economy
+Science and Mathematics
+Philosophy

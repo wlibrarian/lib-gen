@@ -1,0 +1,44 @@
+\contentsline {chapter}{\numberline {1}Library}{3}
+\contentsline {section}{\numberline {1.1}Library news}{3}
+\contentsline {section}{\numberline {1.2}Editor's note}{3}
+\contentsline {subsection}{\numberline {1.2.1}General notice}{4}
+\contentsline {chapter}{\numberline {2}Ought}{5}
+\contentsline {section}{\numberline {2.1}The Death of Chinese Pluralism}{5}
+\contentsline {subsection}{\numberline {2.1.1}Introductory}{5}
+\contentsline {subsection}{\numberline {2.1.2}The foundations of the Chinese nation state}{6}
+\contentsline {subsection}{\numberline {2.1.3}Normalisation}{7}
+\contentsline {subsection}{\numberline {2.1.4}Increasing dictatorship}{8}
+\contentsline {subsection}{\numberline {2.1.5}Domestic control}{9}
+\contentsline {subsubsection}{Propaganda}{9}
+\contentsline {subsubsection}{Information control}{10}
+\contentsline {subsection}{\numberline {2.1.6}International control}{11}
+\contentsline {subsubsection}{China's strategic advantage}{11}
+\contentsline {subsubsection}{People}{11}
+\contentsline {subsubsection}{A collective action problem}{12}
+\contentsline {subsubsection}{Winds of change}{12}
+\contentsline {subsection}{\numberline {2.1.7}Conclusion}{13}
+\contentsline {chapter}{\numberline {3}Is}{14}
+\contentsline {section}{\numberline {3.1}Adventures in recreational mathematics V: graph theory}{14}
+\contentsline {paragraph}{Graphs}{14}
+\contentsline {paragraph}{Digraphs}{15}
+\contentsline {paragraph}{Walks}{16}
+\contentsline {paragraph}{Trees}{18}
+\contentsline {paragraph}{Bipartite Graphs}{19}
+\contentsline {paragraph}{Complete Graphs}{19}
+\contentsline {paragraph}{Planar Graphs}{20}
+\contentsline {paragraph}{Colourings}{21}
+\contentsline {subsection}{\numberline {3.1.1}Problems}{22}
+\contentsline {subsection}{\numberline {3.1.2}Bibliography}{22}
+\contentsline {chapter}{\numberline {4}Review}{23}
+\contentsline {section}{\numberline {4.1}Lectures}{23}
+\contentsline {subsection}{\numberline {4.1.1}Middle East Society - The Great War and its consequences}{23}
+\contentsline {subsubsection}{Historical context}{23}
+\contentsline {subsubsection}{The Iraq War}{23}
+\contentsline {subsubsection}{Obama}{23}
+\contentsline {subsubsection}{Modes of interaction}{23}
+\contentsline {subsubsection}{Who to trust?}{24}
+\contentsline {subsubsection}{Questions}{24}
+\contentsline {subsection}{\numberline {4.1.2}Stipatores Honorati}{24}
+\contentsline {subsection}{\numberline {4.1.3}Biology bites}{24}
+\contentsline {section}{\numberline {4.2}American Classics}{26}
+\contentsline {chapter}{\numberline {5}Music}{29}

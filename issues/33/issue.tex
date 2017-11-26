@@ -1,0 +1,755 @@
+\documentclass[11pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1.5cm,includehead,includefoot]{geometry}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{ulem}
+\usepackage{dirtytalk}
+\usepackage{amsmath}
+\usepackage{breqn}
+\usepackage{url}
+\usepackage{amsthm}
+\usepackage{epigraph}
+\usepackage[super]{nth}
+\usepackage{fbb}
+
+\titleformat{\chapter}[display]
+{\normalfont\bfseries}{}{0pt}{\Huge}
+
+%to lyn preamble from here
+\let\svsection\section
+
+\titleformat{\section}[leftmargin]
+{\normalfont
+	\sffamily\bfseries\filleft}
+{}{0pt}{}
+\titlespacing{\section}
+{4PC}{1.5ex plus .1ex minus .2ex}{1pc}
+
+\usepackage[T1]{fontenc}
+
+\usepackage{amssymb}
+\usepackage{dirtytalk}
+
+\hyphenpenalty=8000
+\tolerance=1000
+
+
+\newcommand{\triast}{\bigskip\par\noindent\parbox{\linewidth}{\centering\large{*}\\[-4pt]{*}\hskip 0.75em{*}}\bigskip\par}%
+\newcommand{\threeast}{\bigskip\par\centerline{*\,*\,*}\medskip\par}%
+\newcommand{\oneast}{\bigskip\par{\large\centerline{*\medskip}}\par}%
+
+\let\origsection\subsection
+\renewcommand{\subsection}[1]{\origsection{#1}\vspace{-0.5em}\line(1,0){512}\vspace{-1em}}
+
+\titlespacing{\subsubsection}{0em}{0em}{-1.25em}
+\titlespacing{\subsection}{0em}{0em}{-1.25em}
+\titlespacing{\section}{0em}{0em}{0em}
+
+%\titleformat{name=\subsection}
+%{\normalfont\bfseries}{\thesubsubsection}{-1.25em}{}{}
+
+\usepackage{url}
+\usepackage{breakurl}
+\def\UrlBreaks{\do\/\do-}
+
+\usepackage{enumitem}
+\setitemize{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
+\setenumerate{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
+
+\titleformat{\section}{\normalfont\Large\bfseries}{}{0em}{}
+\titleformat{\subsection}{\large\bfseries}{}{0em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\leftmark}
+\fancyhead[L]{The Librarian}
+\fancyfoot[C]{\thepage}
+
+\renewcommand{\footrulewidth}{0.5pt}
+\setlength{\headsep}{1.5em}
+
+\newcounter{count}
+
+\begin{document}
+	
+	\includepdf[pages={1}]{cover.pdf}
+	
+	\tableofcontents
+	
+	\chapter{Library}
+	\setlength{\parindent}{0em}
+	\setlength{\parskip}{1.25em}
+	
+	\section{Library news}
+	
+	\begin{multicols}{2}
+		
+		The Library Committee's annual stall at September Saturday raised over £500, for Phab. Sale of bags alone raised £300. 
+		
+		In another charitable event, the Library Committee's annual charitable doughnut sale will take place on October \nth{13}.
+		
+	\end{multicols}
+	
+	\section{Editor's note}
+	
+	\subsection{Contents}
+	
+	\begin{multicols}{2}
+
+		\columnbreak
+		These longer editions are now to be referred to as ``Supplementary Issues'', as many pieces are only tangentially related to the library. The one page editions of \textit{Library News} will now be renamed \textit{The Librarian}.
+		
+		This issue's dialectic piece, written by James Bithell, explores the nature of the prosecution of politicians. ``Legislating to `protect the public from themselves' is a dangerous game'', as is prosecution for ```lying' or for `aggression{'}'', he writes, albeit conscious that he has ``raised just as many questions'' as he has ``attempted to answer''.
+		
+		Isky Mathews in the fourth installation of Adventures in Recreational Mathematics confesses to his addiction to sequences, and invites others to join him. The cover photo is from http://swarminglogic.com. \footnote{http://swarminglogic.com/article/2013\textunderscore08\textunderscore{}oeis} and is a representation of how ``interesting'' a number is based on the number of entries it has in the Online Encyclopedia of Integer Sequences. The website entry notes that the concept of ``interest'' seems somewhat subjective. In this case, it refers to the number of times that a number occurs in a sequence; if this number is large, this suggests that a number is involved in many phenomena, not just a few. It is interesting to note that despite what one might initially suspect, the cover photo shows a number of interesting patterns - the two rectangles and lines are somewhat surprising. 
+		
+		Benedict Randall Shaw in ``An introduction to Areal coördinates'' introduces readers to the concept of Areal coördinates. Readers are guided through the concept with a sample question.
+		
+		\textit{The Librarian}'s staff have written summaries and commentary on a number of lectures and meetings. This edition includes:
+		\begin{itemize}
+			\item Emeritus Professor Michael Bentley on \textit{The Gladstone Problem},
+			\item The first Imperial College Lecture, viz. Professor Alyssa Aspel on \textit{Wireless Circuits in the Age of the Internet of Things},
+			\item Dr. Rufus Duits on \textit{What's the wrong thing to do?}, and
+			\item The first meeting of Stipatores Honorati.
+		\end{itemize}
+		
+		Thomas Adamo's review of \textit{The perks of being a wallflower} is the penultimate article. Adamo writes that he would ``definitely recommend [the book], as it is a really well developed coming of age story''. 
+		
+		An excerpt from Benedict Randall Shaw's Piano Sonata No. 1 in C Major «L'algorithmique» concludes this issue.
+		
+		The Editor would like to specially thank Benedict Randall Shaw for his assistance in the preparation of this issue.
+		
+	\end{multicols}
+	
+	\subsection{General notice}
+	\begin{multicols}{2}
+		\textit{The Librarian} is typeset in \LaTeX, with Scribus used to create the front and back pages, in 11pt Computer Modern.
+		
+		The Editor would also like to remind readers that he accepts letters, agony aunt questions and game submissions, as well as articles. 
+		
+	\end{multicols}
+	
+	\chapter{Dialectic}
+	
+	\textbf{Dialectic pieces do not necessarily reflect the views of the Committee, its members, the library, the school or anyone else other than their author. Any reflection is coincidental.}
+	
+	\section{On former politicians' prosecution}
+	
+	\textbf{James Bithell}
+	
+	\begin{multicols}{2}
+		
+		At 6am on the 30th December 2006 Saddam Hussein was hanged in a joint Iraqi-American military base known as “Camp Justice”, in a suburb just north of Bagdad [1]. Saddam had been the leader of Iraq for 23 years, but after a new government was installed by an international coalition led by President George Bush in 2003, he was executed in a manner the Bush said “looked like it was kind of a revenge killing.” [2]. Does Camp Justice live up to its name? Was it right for the new government of Iraq to decide to pursue the execution of their predecessor? 
+		
+		Politicians are by definition the most accountable people in our society. Judged by all the people that make up a nation, not just a small cross section through a jury, national politicians set our laws, dictate how people should be tried and how they should be punished. A head of state is, according to the common legal maxim \textit{rex non potest peccare} (the king can do no wrong) [3] [4], above the law and cannot be tried in most courts. Thanks to the ideas of state sovereignty enshrined in international law, a head of state can not be tried in a foreign court either, and they are therefore whilst in office essentially “above the law”. This is significant for monarchies where a blood line dictates the line of succession and the office is only given up on death, such as is the case in Britain. In this situation there is no way of bringing legal action against the head of state as they spend a lifetime in office, whilst for many presidents and other types of heads of state, prosecution is often brought against them after their departure from office, albeit often unsuccessfully, as sometimes the “office” takes a decision, not the individual that holds the position of office. Whilst this is problematic - Romania’s parliament spent a great deal of 2015 refusing to lift the parliamentary immunity of an MP who was accused of taking bribes [5], we shall only discuss the prosecution of former politicians here, and ignore the complications of prosecuting someone in office (and mechanisms for removal from office – such as impeachment). We shall also mostly exclude offences where individuals are always almost prosecuted and imprisoned – this essay does not seek to discuss whether politicians should be excused from prosecution for rape or murder. 
+		
+		Simply put, individuals are prosecuted to protect the public from them should they be considered a risk (and to prevent further offences through various measures such as imprisonment), to provide closure and vindication to the victim or their families, and to serve as a deterrent to others [6]. In turn, this piece consider the application of each to the prosecution of former politicians. 
+		
+		It’s illegal for a car manufacturer to advertise functionality their cars can not actually fulfil [7]– but not illegal for a politician to make a promise they cannot fulfil. Why is it illegal for the car manufacturer to lie? Simply put, “to protect the public”. So should a politician who lies therefore be prosecuted for a new crime such as “lying to gain office”, or is this just a waste of the law’s time? Politifact, a US based fact checking website, runs a “truth-o-meter” where they evaluate statements made by politicians for truthfulness. During the 2017 general election campaign they rated 307 statements made by Republican party candidate Donald Trump either “Mostly False”, “False” or “Pants on Fire”, but only 77 for Democratic party candidate Hilary Clinton [8]– clearly these falsehoods being drawn attention to does not work. Must we therefore prosecute? This is something argued by Marcus, a 27-year-old from Norwich [9], who has lead a crowdfunded campaign to bring a private prosecution to court for politicians who lied during the Brexit campaign, and to “establish a legal precedent in UK common law that prevents political leaders from lying to the public in future” [10] – much like the “lying to gain office” offence. He has raised over £145,000 [11] so far for research and case building, and is now trying to raise another £2 million to fund the lengthy court battle. But perhaps it is not that simple – many argue that part of the central underpinning of a democracy is that the public should be able to choose who they wish to represent them in making decisions.  John Stuart Mill, in his 1859 \textit{Essay on Liberty} and 1861 \textit{Considerations on Representative Government}, argued that every adult should have the vote but only after compulsory secondary education [12]. Today with universal secondary education in the UK Bernard Crick, writer of \textit{Democracy, a Very Sort Introduction}, argues that “[p]olitical leaders can cry ‘education education education’, but with their manipulation of the media, sound-bites, and emotive slogans rather than reasoned public debate, Mill might have had difficulty recognising them as products of an educated democracy” [12]. So perhaps the public should be legally protected from their own impulse? It is fair to say that any legislation that could be perceived to “dumb down” politics would be hopelessly unpopular, but if we had to protect the public from themselves, how would we do that with the problem of how easy it would be for an incoming government to prosecute the previous government under the guise of protecting the public from those in the previous administration, in doing so removing threats to themselves. Perhaps this is partly what happens during inquests organised by certain UK governments. In June 2009, the then prime minister, Gordon Brown, announced a public inquiry into the actions of the previous government leading up to, and during, the war in Iraq in 2003 [13]. The inquiry had no authority to prosecute anyone, and thus it is easy to think that it is not relevant to this question, but this is where the politics comes in. For senior figures at the time the result of this inquiry could be described as a fate worse than prosecution. A prosecution and conviction had not been ruled out, but the political fallout has been just as bad – if not worse. In the case of Tony Blair, Brown’s predecessor, the Guardian’s Richard Norton-Taylor summed it up: “Chilcot's indictment of Tony Blair could hardly be more damning” [14]. So perhaps we do not need to prosecute former politicians – maybe just public justice through an inquiry is good enough? Or is this just a way of the next administration trying to crush the previous one? And what about incidents that do not warrant a costly public inquiry such as lying during an interview? We shall come back to these questions later on. 
+		
+		Prosecutions are also led against individuals to provide closure and vindication to the victims of crimes, so how do we apply that to the prosecution of a politician? It is easy to say that the crimes we are discussing are victimless – who is a real victim from a politician lying as in the example above? Surely it would be a waste of time to prosecute politicians? What if a politician took a poor decision or lied to the public before going to war? Causing death by careless driving is not a victimless crime - it has real victims and their families, and results from poor decisions taken by an individual. So would not it be a good idea to prosecute a politician who has made a poor decision? There are two issues here – one is the faith that that decision was taken in, and the other is whether that would make all future leaders risk averse. The high court has blocked attempts to bring a private war crimes prosecution against Tony Blair over his role in the Iraq invasion of 2003. Though charged with the crime of aggression under international law by the private prosecution, this does not apply retroactively in British law and therefore is not applicable to the Iraq Invasion [15] [16]. In British terms, there were 182 casualties resulting from the Iraq invasion [17] – they and their families are all real victims. But one could not prosecute politicians for an entire war, surely? Would you prosecute Winston Churchill for the 449,700 British killed in the Second World War [18]? After all, the servicemen killed during that war were mostly conscripted, not the voluntary army that fought in Iraq. Though it may be appropriate to prosecute individuals over specific failings, such as the crash of a military aircraft due to poor maintenance, as the owner of an airline would be prosecuted for a similar incident to one of their planes, we should stop short of prosecution for crimes of “aggression”, such as an invasion Tony Blair said was taken in “good faith”, but that turned out to be more complex due to the unforeseen threat of insurgency [19]. Sir John Chilcot, who chaired the inquiry into the Iraq war, disputes this, and said that he does not believe Blair was “straight with the nation” [20]. That is enough -  there was a seven year investigation [21], which was well reported and published with the lessons learned. For the families of those killed, the terrible tragedy will stay with them forever, whether those in charge are prosecuted or not. 
+		
+		Christopher Paul-Huhne, as he was known whilst a pupil at Westminster School, was a senior liberal democrat politician, serving as Secretary of State for Energy and Climate Change during the coalition government from 2010-2015 [22]. Caught speeding in his BMW on the 12th March 2003 [23], he asked his wife Vicky to take his penalty points to prevent him being banned from driving. When this came to light in 2013 and he was charged for perverting the course of justice, becoming the first British cabinet minister in history to resign because of criminal charges brought against him [24]. Following a guilty plea he was convicted and jailed. In October 2011 the AA ran a survey, the results of which revealed that up to 300,000 drivers may have persuaded others to take their penalty points for speeding [25], though only 12\% of AA members said they would refuse and make a report to the police if asked to participate in a point swap. Only around 12,000 people a year are convicted for what the UK’s Crown Prosecution Service defines as “other offences”, of which perverting the course of justice is one [26] – so even if every one of those convictions was for perverting the course of justice (which they are not) only 4\% of those estimated to be “point swapping” would be being charged. We know the actual conviction figure is far far lower than this because that category statistic includes a swathe of other crimes. But it is very difficult for the police to detect it happening, and so it is fair to say that the fact few are convicted is not relevant to a discussion of Huhne – and none of this suggests Huhne was singled out. The Daily Mail’s Sarah Williams, writing in May 2011, discussed her conviction in court for perverting the course of justice [27] after her mother agreed to pretend she was driving the car in which she was caught speeding, but the police were tipped off. She was fined £1,000, handed a six month driving ban and 125 hour community service order. Huhne was imprisoned for eight months. So why the difference? Why was discretion used for Williams but not Huhne? This comes down to our final reason to prosecute, to serve as a deterrent. Huhne’s prosecution attracted huge media attention, brought stories like Sarah’s to light, and led to surveys such as the one conducted by the AA previously discussed. So prosecuting politicians more than the general population to set an example is right – but is it fair? Well perhaps– politicians agree to uphold the law in taking public office, and in doing so accept that they will undergo more scrutiny as a result of more media attention. There is not a great deal the law could or should do about that - “public vetting” is a big part of choosing who to vote for in a democracy. 
+		
+		To conclude, though this essay has raised just as many questions as it has attempted to answer, hopefully this piece has provided a relatively balanced argument for why it may or may not be right to prosecute former politicians, leaning towards a conclusion that it is not right to prosecute former politicians for perceived “lying” to the public or for “aggression” which was part of an attempt to protect the people of a foreign nation in an intervention that was misjudged. The current mechanism of public inquiries provides sufficient framework for determining the facts from those sorts of incidents and learning from them – which is the most important thing. For politicians that lie, perhaps in a TV interview, it is clear that the public of the “information age” [28] are able to discover what’s true and what is not, but either choose to ignore these “lies” or do not believe they are significant enough to influence their decision making. Legislating to “protect the public from themselves” is a dangerous game and it is easy to see how a newly elected government could attempt to annihilate their opponents by prosecuting them for perceived crimes – something we have not seen on a large scale since Stalin’s USSR. Politicians should be held to account by our vote – it is our role as the people of a democracy to use the tools at our disposal to make the right decisions. We shall make mistakes, and so will our leaders, but we do not need to prosecute them for it
+		
+	\end{multicols}
+	
+	\subsection{Bibliography}
+	\begin{flushleft}
+		\begin{enumerate}
+			\item "BBC NEWS | Middle East | Saddam Hussein executed in Iraq," , . [Online]. Available: http://news.bbc.co.uk/2/hi/middle{\textunderscore}east/6218485.stm. [Accessed 6 8 2017].
+			\item PBS, "PBS News," 16 January 2007. [Online]. Available: http://www.pbs.org/newshour/bb/white{\textunderscore}house/jan-june07/bush{\textunderscore}01-16.html. [Accessed 17 January 2007].
+			\item "Sovereign immunity," , . [Online]. Available: http://en.wikipedia.org/wiki/Sovereign{\textunderscore}immunity. [Accessed 20 8 2017].
+			\item Bithell Studios, "Sapiens Optio - Latin Translator," [Online]. Available: https://sapiensoptio.com/.
+			\item The Economist, "Why politicians are granted immunity from prosecution," 27 5 2016. [Online]. Available: https://www.economist.com/blogs/economist-explains/2016/05/economist-explains-21. [Accessed 30 8 2017].
+			\item British Broadcasting Corporation Archive, "Ethics," [Online]. Available: http://www.bbc.co.uk/ethics/capitalpunishment/for{\textunderscore}1.shtml. [Accessed 25 8 2017].
+			\item Her Majesty's Government , "Marketing and advertising: the law," [Online]. Available: https://www.gov.uk/marketing-advertising-law/regulations-that-affect-advertising. [Accessed 30 8 2017].
+			\item PolitiFact, "Comparing Hillary Clinton, Donald Trump on the Truth-O-Meter," [Online]. Available: http://www.politifact.com/truth-o-meter/lists/people/comparing-hillary-clinton-donald-trump-truth-o-met/. [Accessed 30 8 2017].
+			\item The Independent , "Brexit: Crowd-funded legal case wants to see politicians jailed for 'lying' during referendum campaign," 14 10 2016. [Online]. Available: http://www.independent.co.uk/news/uk/politics/brexit-latest-eu-referendum-brexit-justice-legal-case-dishonest-lying-politicians-a7362096.html. [Accessed 30 08 2017].
+			\item M. J. Ball, "{\#}BrexitJusitce," [Online]. Available: http://www.brexitjustice.com/. [Accessed 30 8 2017].
+			\item Crowd Funder, "{\#}BrexitJustice," 29 7 2016. [Online]. Available: http://www.crowdfunder.co.uk/brexitjustice. [Accessed 30 8 2017].
+			\item B. Crick, Democracy : a very short introduction., Oxford New York: Oxford University Press., 2002. 
+			\item Wikimedia Foundation, "Wikipedia," [Online]. Available: https://en.wikipedia.org/wiki/Iraq{\textunderscore}Inquiry{\#}History. [Accessed 28 8 2017].
+			\item The Guardian, "Chilcot's indictment of Tony Blair could hardly be more damning," 6 7 2016. [Online]. Available: https://www.theguardian.com/uk-news/2016/jul/06/chilcot-indictment-of-tony-blair-could-hardly-have-been-more-serious. [Accessed 28 08 2017].
+			\item British Broadcasting Corporation, "Iraq War: Bid to prosecute Tony Blair rejected by High Court," 31 7 2017. [Online]. Available: http://www.bbc.co.uk/news/uk-40775725. [Accessed 30 8 2017].
+			\item The Guardian, "Tony Blair prosecution over Iraq war blocked by judges," 31 7 2017. [Online]. Available: https://www.theguardian.com/politics/2017/jul/31/tony-blair-prosecution-over-iraq-war-blocked-by-judges. [Accessed 30 8 2017].
+			\item Wikimedia Foundation, "British fatalities during Operation Telic," [Online]. Available: https://en.wikipedia.org/wiki/British{\textunderscore}fatalities{\textunderscore}during{\textunderscore}Operation{\textunderscore}Telic. [Accessed 30 8 2017].
+			\item Wikimedia Foundation, "United Kingdom casualties of war," [Online]. Available: https://en.wikipedia.org/wiki/United{\textunderscore}Kingdom{\textunderscore}casualties{\textunderscore}of{\textunderscore}war. [Accessed 30 8 2017].
+			\item T. Blair, A Journey, London: Penguin Books, 2011. 
+			\item British Broadcasting Corporation, "Iraq Inquiry: Full transcript of Sir John Chilcot's BBC interview," 6 7 2017. [Online]. Available: http://www.bbc.co.uk/news/uk-politics-40510539. [Accessed 30 8 2017].
+			\item Wikimedia Foundation, "Iraq Inquiry," [Online]. Available: https://en.wikipedia.org/wiki/Iraq{\textunderscore}Inquiry. [Accessed 30 8 2017].
+			\item Wikimedia Foundation, "Wikipedia - Regina v Christopher Huhne and Vasiliki Pryce," [Online]. Available: https://en.wikipedia.org/wiki/R{\textunderscore}v{\textunderscore}Huhne. [Accessed 29 8 2017].
+			\item British Broadcasting Corporation, "BBC News - Chris Huhne and Vicky Pryce jailed for eight months," [Online]. Available: http://www.bbc.co.uk/news/uk-21737627.
+			\item The Daily Mail, "Millionaire minister Chris Huhne, forced from office by criminal prosecution, wants £17k pay-off from the taxpayer," [Online]. Available: http://www.dailymail.co.uk/news/article-2107901/Chris-Huhne-Minister-facing-trial-swapping-speeding-points-demands-17k-severance-pay.html. [Accessed 25 8 2017].
+			\item The AA, "News - Swapping penalty points," 13 10 2011. [Online]. Available: http://www.theaa.com/motoring{\textunderscore}advice/news/points-swapping.html. [Accessed 30 08 2017].
+			\item Crown Prosecution Service , "Case Outcomes," 07 08 2017. [Online]. Available: http://cps.gov.uk/data/case{\textunderscore}outcomes/index.html. [Accessed 30 08 2017].
+			\item The Daily Mail, "Would you ask a loved one to take your speeding points? I did and I still live with the consequences," 25 5 2011. [Online]. Available: http://www.dailymail.co.uk/femail/article-1390586/Would-ask-loved-speeding-points-I-did-I-live-consequences.html. [Accessed 30 8 2017].
+			\item Wikimedia Foundation, "Information Age," [Online]. Available: https://en.wikipedia.org/wiki/Information{\textunderscore}Age. [Accessed 30 8 2017].
+		\end{enumerate}
+	\end{flushleft}
+	
+	\chapter{Review}
+	
+	\section{Lectures}
+	\textbf{\textit{The Librarian} staff}
+	\subsection{Note}
+	\begin{multicols}{2}
+		Many lectures are delivered by a single person or group of people. It would soon become tedious for both the writer and the reader to continually write ``\(x\) claims/says/posits that \(y\)''. We shall therefore in most cases only include \(y\), ie. what is said.
+		
+		To aid clarity, articles here are split into two sections. The first is in normal font, and describes what was said. The second is in \textbf{bold}, and is commentary. Commentary is occasional or sometimes non-existent. The former, ie. an account of what happened, will be as objective as possible, such that even if a completely false claim is made, it is still repeated eg. ``Paris is the capital of Germany''. Commentary may point out false claims - ``\textbf{Paris is actually the capital of France. Germany's capital is Berlin}''. This two part structure will hopefully maximise clarity.
+		
+	\end{multicols}
+	
+	\subsection{Stipatores Honorati}
+	
+	\begin{multicols}{2}
+		
+		Last month, the inaugural meeting was held up Refectory of Stipatores Honorati, which translates as the Following of St. Honoré (the patron saint of bakers, among other things including candle-makers, florists, flour merchants, corn chandlers, and oil refiners, who, as those attending were told, resisted his election as bishop of Amiens, believing himself unworthy of the post, but nevertheless found himself the target of a ray of divine light upon his election, the news of which his nursemaid, baking bread at the time, refused to believe unless the peel (a shovel-like object) she was using at the time put down roots and became a tree, which it, somewhat predictably for such stories, did, in the form of a mulberry tree), more informally known as Cake Society, at which, each month, a speaker brings and shares a cake and some information on its history and literary references, in this case a Northamptonshire Seblet Cake (a seed cake made with caraway) provided by William Mirza, who set up and runs this society (with supervision from the Chaplain), and who spoke of the various references to it and seed cakes like it in such books as Jane Eyre and the Hobbit, before opening the society up to general discussion of such issues as the pronunciation of scone (all but one agreed it rhymed with gone), whether one puts jam or clotted cream onto said scone first (all but one put cream on first, raising such reasons as the fact that clotted cream is more solid than good jam, thus making it easier to get an even spread with cream first, and the way clotted cream can fulfill the functions of butter on the scone (although it was noted that some get around this by using butter as well, in a show of extreme overindulgence)), why poppy seeds were so popular in cakes these days, whether Britain had ever successfully invaded Afghanistan, whether Stipatores Honorati was an acceptable name (which thankfully it was, as a dedicated cake slice had already been engraved), and which cakes should be the subject of upcoming meetings, with the final decision that, as Stipatores Honorati is set to be monthly, October would have William Mirza speaking on Oxford Apple Buns, owing to it being apple season, November would have Adam Mee on Colin the Caterpillar, a famous Marks and Spencer chocolate roll cake, December would have something Christmas related, and January would have this author on Black Bun, a Scottish delicacy eaten at Hogmanay. It was enjoyed by all.
+		
+	\end{multicols}
+	
+	\subsection{Wireless Circuits in the Age of the Internet of Things}
+	\begin{multicols}{2}
+		This lecture was delivered by Professor Alyssa Apsel, of Cornell University. She works in the field of low power radio.
+		
+		Professor Apsel first explained her thoughts on engineering - to her, it is a combination of creativity and numeracy, hence her interest.
+		
+		Radio is used for all sorts of information, not just ``radio''. It includes electromagnetic waves where \(3\text{kHz} < f < 300\text{GHz}\). The transmission of data occurs by the modulation of frequency, phase and amplitude. Amplifiers amplify signals which are broadcast by antennae. Most reception is small and noisy. Demodulation is the process of getting information from this reception. One can filter signal by the size of one of the modulated things.
+		
+		Low power radio is P2P, has low bitrate and complexity, and can describe a single usage case of a broader system. Power consumption is below \(100\)mW.
+		
+		Power is useful in that it increases range and resilience, amongst other things. By extension, low power radios must adapt in order by either minimising range and resilience or reducing the factors which cause this phenomenon.
+		
+		There are three basic architectures of radio. The first is narrow band. It has high penetration and resilience, and there are many variants. The second is UWB - ultra wideband. Short transmissions with high bitrate are sent over short to medium distances. The final type is passive - this includes NFC and RFID.
+		
+		Narrow band encodes bit streams by the use of a number of processes, such as BPSK, OOK and FSK. Complex multi-value phase transmissions allow more data to be sent - instead of a binary transmission, transmissions may allow more than one value per bit. The baseband - the original frequency of the data - is likely to be low. The data are converted to high frequency by a modulator and oscillator. The receiver's demodulator will reverse this process.
+		
+		Amplifiers are used to increase signal strength. Low noise amplifiers must be specific to frequencies in order to minimise distortion. They use lots of power, since a decrease in power increases noise. Transmitters, again, are also power-hungry. In short, power usage is dominated in transmitters by the oscillator and the amplifier, and in receivers by the oscillator and low noise amplifier.
+		
+		There is therefore a necessary trade-off between low power usage and other desiderata, such as bitrate and range. Hence low power radios must be low range, low bitrate and have low overhead. Alternatively, they may have high off time, or be asymmetric.
+		
+		A question from the audience asked how other frequencies were eliminated. Some inductors and capacitors have a specific resonance, so only one frequency will get through. At other times, a fast signal is slowed down, and their difference subtracted, in order to get the original signal. 
+		
+		The internet of things refers to the expansion of the internet to everyday objects, such as fridges and lightbulbs. This permits seemless automation. However, low power and cost is required given the number and cost requirements of these items. Existing infrastructure is insufficient, both in power and capacity terms.
+		
+		Low power protocols include Zigbee, Bluetooth LE, ANt and WiFi Halo.
+		
+		Khanh Tuan Le's paper ``Designing a ZigBee-ready IEE 802.15.4-compliant radio tranceiver'' provides some more useful information.
+		
+		\textbf{This is available at \url{https://citeseerx.ist.psu.edu/Khan/download?doi=10.1.1.214.3734&rep=rep1&type=pdf}}
+		
+		Other ways of reducing power usage include wideband, which does not require modulators on the other side, and passive systems. Asymmetric systems are used where power is available in abundance on one side, and to a much lesser degree on another - an example is cellular data. Passive radio takes this to the extreme. The power of the receiver or transmitter is so great that the other side needs very little or no power. This works because if, for example, a cellular tower has a very powerful antenna, a phone does not require a very good amplifier (or a very high power amplifier) to receive this signal accurately and quickly. 
+		
+		Finally, Apsel spoke of some of her research. For radios which save power by switching off, there is a need for some sort of synchronisation or other mechanism to ensure that radios are on at the same time. Synchronisation of clocks in many different places is very difficult.
+		
+		Her research explored the possibility of using a similar mechanism to fireflies in South East Asia. Using distributed synchronisation, fireflies, or receivers, adapt to the fastest cycle. Gradually, they synchronise by themselves. Her team managed to ensure four nodes synchronised.
+		
+		There is, however, a lacuna in authentication in this method. An malicious actor could use a very fast transmitter, or firefly, in order to sabotage the cycle.
+		
+		\textbf{Given this is merely research and implementation is a long way away, this is not particularly problematic. Obviously some sort of authentication would be required in order to prevent sabotage were it to be used widely.}
+		
+	\end{multicols}
+	
+	\subsection{What's the wrong thing to do?}
+	
+	\begin{multicols}{2}
+		
+		Dr. Rufus Duits in this lecture proposed four premises to this argument, and one conclusion.
+		
+		\begin{enumerate}
+			
+			\item Reasons internalism says that reasons for action must come from within the self and cannot be implanted. An example is that though another may urge me to drink poison, I do not wish to drink poison, and so I have no reason to do so. Reasons externalism is the opposite view.
+			
+			\textbf{This is somewhat plausible - note that external actors' urgings may still have value if one internally wishes to please others.}
+			
+			\item Reasons instrumentalism says that practical reasoning is exclusively about means or intermediate ends as means. If there are two motives \(x\) and \(y\) such that there is no common motive \(z\) for which \(x\) and \(y\) are intermediate motives, there is no way to decide between \(x\) and \(y\).
+			
+			\item Moral rationalism says that morally wrong actions must have an overriding reason for their not being done. 
+			
+			\item A distinction is morally relevant if it is not said to be so \textit{ex post facto}, and is universalisable. Moral impartialism holds that where two situations are relevantly similar, that which is morally correct to do is the same.
+			
+		\end{enumerate}
+		
+		Given this, one must not do \(x\) where \(x\) affects another party such that they have an overriding reason to object based on a principle. 
+		
+		\textbf{The derivation of this last claim is somewhat tenuous - in the lecture, due to time constraints, by no fault of Dr. Duits, it was nearly nonexistent. We shall attempt to reconstruct the derivation.}
+		
+		\textbf{By (2), it is unclear which of two parties in a moral dispute is correct, given that reasons for action must come from within the self. By (4), there is no morally relevant distinction between the other person and me, and so our internal motivations are equally important, and so by (1) we should value their own internal reasoning, hence the claim.}
+		
+		Dr. Duits says that if we accept all four claims we must necessarily accept his fifth.
+		
+		\textbf{It is also worth noting that an objection based on the absurdity of universalisability does not stand, insofar as such objections generally assert that there is difficulty in determining good faith when classifying actions. However, given that all that is required, at least for this interpretation of the argument, is that there be no morally relevant distinction between people, universalisability criteria may break down elsewhere without causing this argument to fail.}
+		
+	\end{multicols}
+	
+	\subsection{The Gladstone Problem}
+	
+	\begin{multicols}{2}
+		
+		Emeritus Professor Michael Bentley's talk is about both Gladstone and historiographic problems encountered in his study.
+		
+		Gladstone is ``something vaguely colossal'': he crosses the \nth{19} century. This less to problems in analysis. He was alive from 1809 to 1898, in the Commons from 1830 to 1894 and in the cabinet from 1843. 
+		
+		Gladstone's energy lead to what would now likely be diagnosed as OCD. He had to chew all his food 36 times. One diary entry wrote that he had ``bathed 17 times'' in a morning. Yet he was also extraordinary - in one morning he also wrote ``41 letters'' according to that same diary. There are historiographic problems as a result of this, for he is so large, and extraordinary, that we feel somewhat overawed and guilty in criticising him. 
+		
+		Gladstone was not orginally meant to take the liberal direction he did. Compare Peel's gradual shift to liberalism. This rate of shift increased over time. He supported the liberalisation of trade, was a liberal internationalist and opposed 1870s Disraelite policy, as one would expect of a liberal.
+		
+		This is, however, an incomplete picture. Consider that he said ``I am an out and out inequalitarian'', would likely have opposed women's sufferage, caused the 1866 Reform Bill to fail by its excessive moderation, bombarded Alexandria and advocated war with Bismarck in 1964. 
+		
+		\subsubsection{Religion}
+		
+		Every morning Gladstone went to Anglican communion at 8:30. He wrote on the relationship between Church and state in 1836.
+		
+		The question here is whether his politics can be reduced to his religious beliefs. He had two desks - one for religion and another for politics. \textbf{Optically this says one thing, but the value of this optical impression is of course unclear.} If he were truly religious, why disestablish the Irish church in 1869?
+		
+		\subsubsection{Ireland}
+		
+		One can make the case that his policy on Ireland was indicative of his liberalism. Recall his attempt in 1868 to disestablish the church. In 1886, he attempted Home Rule, as he did again in 1893.
+		
+		There is, however, an alternative explanation for his actions. In 1868 the only issue which united his party was Irish disestablishment. Home Rule will be discussed later.
+		
+		\subsubsection{Legacy}
+		
+		Does Gladstone invent liberalism or cause its death? In 1906, there were 400 liberal MPs - perhaps he laid the foundation for this. Alternatively, Gladstone laid the foundation for the eventual demise of liberal politics by the late 1920s.
+		
+		\subsubsection{Historiography}
+		
+		Time and space can cause variance in views of historical figures. In 1903, the first book about him appears. Written by the Chief Secretary for Ireland, John Morley, it is a ``laudatory book''\footnote{These words are, as far as I can recall, Professor Apsel's, although they may be someone else's too.}. Criticism was staved off till the end of the first world war. The family sent his papers to the British Library.
+		
+		This leads to a number of complications due to scholarly activity. The fundamentals stay - Gladstone is a positive and convincing fellow to those who follow. J R Hammond in 1938 in \textit{Gladstone and the Irish Nation} has a vision of Gladstone provides one example of this.
+		
+		In 1954 Philip Magnsu published another biography of Gladstone with a little criticism. He was deprived of much source material since the Gladstone family knew that he was agnostic. They feared that he might not have understood Gladstone's diary as a result of his agnosticism. 
+		
+		By the 1960s, the family decided that this was absurd. They made the diary public and sent it to the Lambeth Palace Library. There, M R D Foot and, after a few volumes, H C G Mathews edited the diary and published in over a period of 15 years. The diaries contain 3 million words. 21,000 books are mentioned. Interestingly, there are \textbf{(as would likely be expected)} remarks about other people.
+		
+		The diary contained a number of squiggles every day. It was discovered that this corresponded to his visits to brothels. In his diary he records that he never slept with these women. It is clear, however, that the squiggles represent a sort of self-flaggelation. This was a tortured man.
+		
+		Gladstone is much more ordinary than we want him to be. He was a political manipulator. His sanctimony irritated previous generations and lead to their dislike of him. The diary's publication from 1968 reveals that he is not as extraordinary in some ways as was thought.
+		
+		In the 1970s, some ``revisionist'' historiography claims that Gladstone was not really a liberal. This is primarily due to disagreement over religion's importance to Gladstone. some attempt to revise the view of his views. We modern people are unable to comprehend fully the importance of religion to those who lived before us.
+		
+		\subsubsection{Gladstone's motives}
+		
+		A B Cooke and John Vincent write in \textit{The Governing Passion} that politicians discover policies so as to permit them to continue governing, instead of the inverse. Gladstone as someone to be put on a pedestal is a false Gladstone.
+		
+		Consider that in the 1880-1895 Gladstone ministry, he tells his close family that in his mind he is moving towards support for Home Rule in Ireland. Not a word leaks out, until 1885, when his son, Herbert, who is supposed to be incompetent, spread this to the press. This lead to a controversy. Home Rule later failed. This is the conventional view.
+		
+		Cooke and Vincent say that Chamberlain was a radical liberal, who hadn't attended university, was a Unitarian progressive, with a certain imperialist view, and was hated by Gladstone passionately. Ireland was the closest colony. Gladstone attempted to stop Chamberlain by granting Home Rule to what was essentially the closest colony - Ireland. Gladstone also underestimated Chamberlain. He preferred a non-imperial liberalism.
+		
+		\subsubsection{Conclusion}
+		
+		Had World War I not occurred, would we still have a liberal party today? The liberals could well have taken the place of the European social democrats, had Gladstone not poisoned their relationship with socialists and Labour.
+		
+		Professor Apsel concludes that ``if one tries to read one's history in a historiographical way, as I tried, it will be more difficult but a damn sight more interesting''.
+		
+	\end{multicols}
+	
+	\clearpage
+	
+	\section{Stephen Chbosky's \textit{The Perks of Being a Wallflower}}
+	
+	\textbf{Thomas Adamo}
+	
+	\begin{multicols}{2}
+		
+		One of my friends, a fan of lesser well known films, recently recommended this strange film from 2012, called \textit{The Perks of Being a Wallflower}. His only attempt to convince me to do so was summed up in the phrase "It's really good and has Emma Watson in it". He had my attention. But it was a vague memory of that title from somewhere that held my interest. A little initial research about this film revealed that it had been a book first, published in 1999, written by the author Stephen Chbosky. My interest was piqued; film adaptations tend to be based on good books (with the notable exception of \textit{Twilight}). So I found a copy from the library and started reading...
+		
+		One is immediately struck by the way it was written. Instead of being a narrative, the book is presented as a series of letters, to a person who is never identified, stating that the person who he is writing to seems kind and wouldn't be judgmental. However, I felt, reading these personal letters, that they were addressed to the reader. I was also struck by the sheer sense of nostalgia for teenage years the author was able to evoke.
+		
+	\end{multicols}
+	
+	\subsection{Plot}
+	
+	\begin{multicols}{2}
+		
+		The book starts off with our main character, Charlie, a high school freshman, explaining why he is writing these letters believing that the reader will not judge him. He begins by talking about his first year at high school, while still in the grip of two traumatic experiences in his past: the death of his favorite aunt, Helen, in a car crash when he was young, and the tragic suicide of his middle school friend Michael, the year before. He immediately takes a liking for English and his teacher, who insists that Charlie call him Bill, takes notice of his proficiency for the subject. Bill mentors him by setting him extra work and gives him more books to read, which he enjoys greatly, including \textit{The Catcher in the Rye}. Despite being highly introverted, he is befriended by two seniors, Sam and Patrick, Charlie quickly falls for Sam, and admits his feelings for her, Sam rejects his offer kindly, saying that he is just too young for her, but they remain good friends. Patrick, Sam's stepbrother, is found out to be secretly dating Brad, the closeted football quarterback, who is very insistent on keeping their relationship secret.
+		
+		Charlie becomes more and more accepted in Sam and Patrick's friend group, and begins to experiment with drugs and alcohol. The high point of their friendship is when all three of them ride in the pickup truck through a tunnel, and Charlie states that he felt infinite. It is revealed that Sam was sexually abused as a child, and kisses Charlie one night to ensure that his first kiss is with someone he likes. At a party on New Year's Eve, Charlie trips on LSD and cannot control flashbacks of his aunt Helen, and ends up in the hospital after passing out in the snow. Charlie is asked to fill in for the main part in a regular performance of \textit{The Rocky Horror Picture Show} instead of Sam's boyfriend, Craig, This impresses one of their friends, Mary Elizabeth, who then asks him to the school's Sadie Hawkins dance. The two then enter a half hearted relationship, which ends quickly, after a game of truth and dare. Charlie is dared to kiss the prettiest girl in the room, but instead of kissing Mary Elizabeth, he kisses Sam, saying to the reader that he needed to be honest. Patrick suggests that he spend some time away from the group, during which, his flashbacks of Aunt Helen return.
+		
+		Also during this time, Patrick and Brad's relationship is discovered by Brad's abusive father, who pulls him out of school for a while. On returning, Brad is cold and derogatory to Patrick, even publicly mocking his sexuality in the middle of the dining hall. Patrick snaps, attacking Brad, but is then outnumbered by five other football team members who join him. Charlie rushes to his aid and breaks up the fight, which improves the relationship between him and Sam, as he regains her respect. Patrick starts spending more time with Charlie, and engages in unhealthy behavior, including going to a park to "fool around" with strangers, which Charlie does not try to stop. Eventually Patrick sees Brad engaging with a stranger in the same park and is able to move on from their relationship.
+		
+		The school year winds to a close and Charlie is afraid to lose all of his senior friends, especially Sam, who is leaving earlier than the rest, and has just broken up with her boyfriend. In the emotional climax of the book, the two talk about his feelings for her. Sam becomes angry at Charlie for never acting on his feelings for her, saying that she does not want to be someone's crush, because that means they aren't being themselves around her, and are hiding something. She then encourages him to act on the things he feels in all aspects of life, telling him to "participate in life", not just watch from the sidelines as a wallflower. The two begin to engage sexually, but Charlie is suddenly, inexplicably uncomfortable, and realizes that the contact is bringing back repressed memories of him being sexually abused as a child by his aunt Helen.
+		
+		In the epilogue, Charlie is found in a catatonic state and is admitted into a mental hospital to help deal with his PTSD. Patrick and Sam visit, which helps his state and he soon comes to terms with his troubled past ``Even if we don't have the power to choose where we come from, we can still choose where we go from there'', and accepts that he needs to participate in life. The book ends with Sam and Patrick driving through the tunnel one last time, and Charlie states again that he feels infinite. 
+		
+	\end{multicols}
+	
+	\subsection{Analysis}
+	
+	\begin{multicols}{2}
+		
+		The central theme of the book can be found in the title, as it suggests, \textit{The Perks of Being a Wallflower} is all about Charlie wrestling between observing life, as a wallflower, and internalizing his emotions or to taking part in it and sharing how he feels with others. At the start of the school year, Charlie, we are told, feels like an outcast, knowing hardly anyone and having lost one of his best friends, Michael. But during this troubled times, two important events happen to him, which enrich his life and help him feel special in a good way. Firstly his English teacher takes note of him and sets him extra assignments and reading, all the books he sets are coming of age stories, like \textit{The Perks of Being a Wallflower}, giving a clever nod to its predecessors. This allows him to feel special intellectually. He also meets Sam and Patrick, who take him under their wing, making him feel special socially. Charlie ends up being surprisingly direct in his letters, although he is not at all in his own life, and uses them to externalise his emotions, rather than keep them to himself. For example, when he witnesses his sister being hit by her boyfriend, he writes the letter first, then a month later tells Bill, showing how he uses the letters to verbalise how he feels, then acts on it. The entire novel deals with this issue and Charlie's growth revolves around how he has to come to terms with the things he keeps hidden inside of him. When he relates the fact that he witnessed a date rape to Patrick and Sam, years after it happened, they encourage him to puncture the date rapist's tires, allowing him to feel rewarded and provides emotional release. However he soon learns that some things are best kept to oneself, and uses the letters to work through these, rather than directly acting on them. For example, when he kisses Sam instead of Mary Elizabeth at the party.
+		
+		The book ends in an optimistic tone, when, in the epilogue, all three of them ride through the tunnel again. This acts as a powerful expression of nostalgia for Charlie, as it reminds him of the things the friends used to do before Sam and Patrick left. Then the city comes into view, symbolizing how Charlie is ready to start participating in life, completing his growth. The letters stop, showing how he is finally at peace with his  past and who he is.
+		
+	\end{multicols}
+	
+	\subsection{Conclusion}
+	
+	\begin{multicols}{2}
+		
+		I would thoroughly recommend this book as it's a really well developed coming of age story, with a wide variety of themes including: passion vs passivity, sex, drugs, loss and a real sense of nostalgia for the highs and lows of teenage life. Seeing the world through Charlie's eyes gives the reader a good perspective on what it means to take part in life as well as growing up. In the words of Chbosky himself, this book is "for anyone who has ever felt like an outcast", which, given its large cult following, must be a lot of people.
+		
+	\end{multicols}
+	
+	\chapter{Sciences and Mathematics}
+	
+	\section{Introduction to Areal Coördinates}
+	
+	\textbf{Benedict Randall Shaw}
+	
+	\begin{multicols}{2}
+		
+		This article is likely to be useful for those who are going to sit the Senior Maths Challenge, and who then hope to sit the British Mathematical Olympiad as a result; however, other members of the school may do this later in their school career, and so should consider reading on anyway.
+		
+		Sometimes one is not able to easily solve an Olympiad geometry question through the usual method, or is unable to work out how to do so. At such times, some try to use Cartesian coördinates to reduce such problems to mere algebra. This barely ever works. However, sometimes other coördinate systems do the trick. This week, we shall be looking at areal coördinates, which work particularly well on geometry questions which centre on a triangle.
+		
+	\end{multicols}
+	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.5\textwidth]{areals}
+		\caption{A point \(P\) inside triangle \(ABC\)}
+	\end{figure}
+	
+	\begin{multicols}{2}
+		
+		In areal coördinates, we say that a point \(P\) inside the triangle has coördinates \(x,y,z\) with respect to triangle \(ABC\) if \[|PBC|:|PCA|:|PAB|=x:y:z\]
+		(where \(|XYZ|\) denotes the area of triangle \(XYZ\).
+		
+	\end{multicols}
+	
+	\setcounter{figure}{-1}
+	
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.5\textwidth]{areals2}
+		\caption{A point \(P\) outside triangle \(ABC\)}
+	\end{figure}
+	
+	\begin{multicols}{2}
+		
+		We extend this to points outside the triangle by directing the areas; that is to say, in such a configuration as Figure 2, \(PAB\) is negative, as \(P\) is on a different side of \(AB\) to the triangle; however, \(PBC\) is positive, because although \(P\) is outside the triangle, it is on the same side of \(BC\) as the triangle.
+		
+		The best way to explain how one uses areal coördinates is to give an example; I have included a somewhat lengthy one, which explains and gives reasons for a variety of interesting and useful properties of areal coördinates.
+		
+	\end{multicols}
+	
+	\subsection{Question}
+	
+	\begin{multicols}{2}
+		
+		Let \(ABC\) be an acute-angled triangle; let the altitudes of the triangle (i.e. the perpendiculars from points of the triangle to the opposite sides) be \(AD\), \(BE\), \(CF\), such that \(D, E, F\) lie on \(BC, AC, AB\) respectively; let the angle bisectors of the triangle be \(AP, BQ, CR\) such that \(P, Q, R\) lie on \(BC, AC, AB\) respectively; let the incentre of the triangle (the centre of the circle inside the triangle that is tangent to all three sides (which we call the incircle))) be \(I\); let the circumcentre of the triangle (the centre of the circle that passes through all three points of the triangle (which we call the circumcircle)) be \(O\). Prove that \(D, I, E\) lie on a single straight line if and only if \(P, O, Q\) also lie on a single straight line.
+		
+	\end{multicols}
+	
+	\subsection{Solution}
+	
+	\begin{multicols}{2}
+		
+		Henceforth \(a=|BC|\), \(b=|AC|\), \(c=|AB|\), angles \(A,B,C\) are \(\angle{}CAB\), \(\angle{}ABC\), and \(\angle{}BCA\) respectively, \(r\) denotes the radius of the incircle, and \(R\) denotes the radius of the circumcircle.
+		
+		Note that henceforth \((x:y:z)\) denotes the point \((x,y,z)\) in areal coördinates of triangle \(ABC\).
+		
+		Firstly, it should be noted that where point \(X=(x:y:z)\), \(AX\) meets \(BC\) at \(Y=(0:y:z)\), as the area of \(YBC\) is naturally 0 and the ratios of the areas of \(YBA\) and \(YCA\) depend solely on the perpendicular distances of \(B\) and \(C\) from \(AY\) (by using the formula \(\frac{\textrm{base}\times{}\textrm{height}}{2}\) with \(AY\) as the base), which are the same as those from \(AX\). By similar logic, \(BX\) meets \(AC\) at \((x:0:z)\).
+		
+		The incentre, \(I\), is \((a:b:c)\) as it is perpendicularly equidistant from all three sides of the triangle, so the areas of \(AIB, AIC, BIC\) are proportional to \(AB, AC, BC\) (as the heights of the triangles are all the radius of the incircle), and so \(|IBC|:|IAC|:|IAB|=\frac{ra}{2}:\frac{rb}{2}:\frac{rc}{2}=a:b:c\). Then, by our earlier findings, \(P\) and \(Q\) which lie on angle bisectors passing through \(I\), are respectively \((0:b:c)\) and \((a:0:c)\).
+		
+		Now, using the formula for the area of a triangle being \(\frac{ab\sin(C)}{2}\), the circumcentre, \(O\), is \((\sin(\angle{}BOC)\frac{r^2}{2}:\sin(\angle{}AOC)\frac{r^2}{2}:\sin(\angle{}AOB)\frac{r^2}{2})=(\sin(\angle{}BOC):\sin(\angle{}AOC):\sin(\angle{}AOB))\). By the \say{angle at the centre of the circle is twice that at the circumference} theorem, \(O=(\sin(2A):\sin(2B):\sin(2C))\).
+		
+		To find \(D\) and \(E\), we must first find the orthocentre, \(H\). Using triangle \(ABD\), \(BD=c\cos(B)\); using \(\angle{}BEC=90^{\circ}\), \(\angle{}EBC=90^{\circ}-C\) and so \(DH=BD\tan(\angle{}EBC)=c\cos(B)\frac{\sin(90^{\circ}-C)}{\cos(90^{\circ}-C)}=c\cos(B)\frac{\cos(C)}{\sin(C)}\). By the sine rule, this equals \(2R\cos(B)\cos(C)\), and so the area of triangle \(HBC\) is \(aR\cos(B)\cos(C)\). By similar logic, the areal coördinates of the orthocentre are
+		\[a\cos(B)\cos(C)R:\cos(A)b\cos(C)R:\cos(A)\cos(B)cR\]
+		Dividing by \(R^2\), we get
+		\[\begin{split}
+		\sin(A)\cos(B)\cos(C):\\
+		\cos(A)\sin(B)\cos(C):\\
+		\cos(A)\cos(B)\sin(C)
+		\end{split}\]
+		Dividing again by \(\cos(A)\cos(B)\cos(C)\), we find
+		\[H=(\tan(A):\tan(B):\tan(C))\]
+		from which we then easily find that \(D=(0:\tan(B):\tan(C))\) and \(E=(\tan(A):0:\tan(C))\). We now have all the points we are going to use.
+		
+		Using areal coördinates, it is known and accepted that \((a:b:c)\), \((d:e:f)\), and \((g:h:i)\) are colinear if and only if
+		\[
+		\begin{vmatrix}
+		a&b&c\\
+		d&e&f
+		\\g&h&i
+		\end{vmatrix}=0
+		\]
+		
+		For the readers who are as yet unaware of matrix determinants, here is a definition of this particular size thereof.
+		
+		\[
+		\begin{vmatrix}
+		a&b&c\\
+		d&e&f
+		\\g&h&i
+		\end{vmatrix}=aei+bfg+cdh-ceg-bdi-afh
+		\]
+		
+		Readers are however encouraged to look up the full definition.
+		
+		This means the original statement can be, if not simplified, rephrased as proving that
+		
+		\[
+		\begin{split}
+		\begin{vmatrix}
+		a&b&c\\
+		0&\tan(B)&\tan(C)
+		\\\tan(A)&0&\tan(C)
+		\end{vmatrix}
+		=0
+		\iff{}
+		\\
+		\begin{vmatrix}
+		\sin(2A)&\sin(2B)&\sin(2C)\\
+		0&b&c\\
+		a&0&c
+		\end{vmatrix}
+		=0
+		\end{split}{}
+		\]
+		
+		Multiplying out the determinants and moving the negative terms onto the right hand side, we find that this statement is equivalent to
+		\[a\tan(B)\tan(C)+\tan(A)b\tan(C)=\tan(A)\tan(B)c\]\[\iff{}\]\[\sin(2A)bc+a\sin(2B)c=ab\sin(2C)
+		\]
+		Dividing the first equation by \(\tan(A)\tan(B)\tan(C)\) and the second by \(abc\) we find the statement is equivalent to
+		\[
+		\begin{split}
+		\frac{a}{\tan(A)}+\frac{b}{\tan(B)}=\frac{c}{\tan(C)} 
+		\iff \\
+		\frac{\sin(2A)}{a}+\frac{\sin(2B)}{b}=\frac{\sin(2C)}{c}
+		\end{split}
+		\]
+		From \(\sin(A+B)=\sin(A)\cos(B)+\cos(A)\sin(B)\), it is clear that \(\sin(2A)=2\sin(A)\cos(B)\); so we can now use that to simplify the second equation, and expand \(\tan(A)\) into \(\frac{\sin(A)}{\cos(A)}\) in the first, giving us
+		\[
+		\frac{a\cos(A)}{\sin(A)}+\frac{b\cos(B)}{\sin(B)}=\frac{c\cos(C)}{\sin(C)}\]
+		\[\iff\]
+		\[\frac{\sin(A)\cos(A)}{a}+\frac{\sin(B)\cos(B)}{b}=\frac{\sin(C)\cos(C)}{c}
+		\]
+		This is clearly equivalent to
+		\[\begin{split}
+		2R\cos(A)+2R\cos(B)=2R\cos(C)
+		\iff\\
+		\frac{cos(A)}{2R}+\frac{cos(B)}{2R}=\frac{cos(C)}{2R}
+		\end{split}
+		\]
+		Then, dividing the first equation by \(2R\) and multiplying the second by it, we have
+		\[\begin{split}
+		\cos(A)+\cos(B)=\cos(C)
+		\iff\\
+		\cos(A)+\cos(B)=\cos(C)
+		\end{split}
+		\]
+		which is clearly true, and as it is equivalent to the original statement, the original statement must also be true. \(\blacksquare{}\)
+		
+	\end{multicols}
+	
+	\section{Adventures in recreational mathematics IV: confessions of a sequence addict}
+	
+	\textbf{Isky Mathews}
+	
+	\begin{multicols}{2}
+		
+		Salutations!
+		
+		This article examines four integer sequences which have very interesting properties, beginning with a self-referential sequence described by William Kolakoski in 1965. Its first few terms are: \par
+		\(1, 2, 2, 1, 1, 2, 1, 2, 2, 1, 2, 2, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1, 1, 2,\)
+		\\
+		\(1, 2, 2, 1, 1,\ldots\) \par
+		Now look at the Kolakoski sequence and construct a new sequence by recording the lengths of the “runs” of consecutive identical integers. For example at the beginning there is a single “1”, so we write down “1”. Then there are two 2s, so we write down another “2”. If you continue this process, you will generate the same sequence! \par
+		There are many questions that arise when discovering something like this: firstly, does this infinite sequence only contain 1s and 2s? Yes, which can be seen from the fact that new terms of the sequence are generated from the runs of previous parts of the sequence and since no runs of a length greater than two appear in the segment above, we can deduce that no numbers higher than 1 or 2 will ever appear. Secondly, is this sequence unique in this recursive property? \par
+		No. The sequence works if you omit the first term but, more strongly, we can say that there is an infinite family of these sequences which use different integer sets. For example:\par
+		
+		\(\{1, 2, 3\}\) generates 1, 2, 2, 3, 3, 1, 1, 1, 2, 2, 2, 3, 1, 2, 3, 3, 1, 1, 2, 2, 3, 3, 3, 1, 2,\ldots
+		
+		\(\{1, 3\}\) generates 1, 3, 3, 3, 1, 1, 1, 3, 3, 3, 1, 3, 1, 3, 3, 3, 1, 1, 1, 3, 3, 3, 1, 3, 3,\ldots
+		
+		We can also have infinite sets of integers as “generators”: \par
+		
+		\(\{2, 3, 5, 7, 11,\ldots\}\) (primes) generates 2, 2, 3, 3, 5, 5, 5, 7, 7, 7, 11, 11, 11, 11, 11, 13, 13, 13, 13, 13, 17, 17, 17, 17, 17, \ldots
+		
+		This sequence has the property that the \(n^{th}\) term is the number of times \(n\) appears in the sequence: \par
+		\(\{1, 2, 3, 4, 5,\ldots\}\) generates 1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, \ldots
+		
+		Furthermore, permutations of these sets of integers can create different Kolakoski sequences, which you could check on a notepad. In fact, a great and perhaps unintuitive result is that any sequence of integers, countable in length, in which no two consecutive terms are the same can generate a Kolakoski sequence! \par
+		
+		So, a relatively simple logical concept has borne all this brilliant fruit and so I present another --- what if a sequence that generates itself through run-lengths could be seen as a 1-periodic point under the function of “run-length encoding”? Describing the Kolakoski sequences we have looked at so far in this manner allows to wonder if there could be 2-periodic sequences or higher…\par
+		
+		Once again, it is amazingly possible to find examples of this: a sequence whose run-lengths generate a new sequence whose run-lengths generate the first! Here are some examples:\par
+		
+		A pair which generate each other:\par
+		\begin{enumerate}
+			\item \(1, 1, 2, 1, 1, 2, 2, 1, 2, 2, 1, 2, 1, 1, 2, 2, 1, 2, 2, 1, 1,\)\\\( 2, 1, 2, 2, \ldots\)
+			\item \(2, 1, 2, 2, 1, 2, 1, 1, 2, 2, 1, 2, 2, 1, 1, 2, 1, 1, 2, 1, 2,\)\\\(2, 1, 1, 2, \ldots\)
+		\end{enumerate}
+		A miraculous cyclical quintuplet where each sequence in the list generates the one below it:\par
+		\begin{enumerate}
+			\item \(1, 1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 1, 1, 1, 2, 2, 2, 2, 3, 3,\)\\\(3, 3, 4, 4, \ldots\)
+			\item \(2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 1, 1, 1, 1, 2, 2, 2, 2, 3,\)\\\(3, 3, 3, 4, \ldots\)
+			\item \(3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 1, 1, 1, 1, 2, 2, 2, 2, 3,\)\\\(3, 3, 3, 3, \ldots\)
+			\item \(4, 4, 4, 4, 4, 5, 1, 1, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 5, 1,\)\\\(1, 1, 1, 2, \ldots\)
+			\item \(5, 1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 1, 1, 1, 1, 2, 2, 2, 2, 3,\)\\\(3, 3, 3, 4, \ldots\)
+		\end{enumerate}
+		
+		Try them!\par
+		To my knowledge, it is not known but conjectured that there exist \(n\)-tuplets of sequences that generate each other as above out of any countable sequence of integers that can be made into a 1-periodic Kolakoski sequence for any natural \(n\).\par
+		
+		\triast
+		
+		Self-description can be encoded mathematically in many ways, often leading to complex or chaotic behaviour and the Kolakoski sequence (the original version) is a good example: it is conjectured that the sequence is aperiodic i.e. it never repeats. Gijswijt’s sequence, named after the mathematician Dion Gijswijt, is another such encoding…\par
+		To explain the process of determining the \((n+1)^{th}\) term of the sequence, one needs to understand strings and basic string notation. A string is simply a series of characters (not limited to numbers) written next to each as if the letters of a word. The process of taking an ordered collection of such characters and writing them together in this manner is referred to as concatenation (this word generally means the combination of any strings \(X\) and \(Y\) into \(XY\)). If \(Y\) is a string, then we denote \(Y\) repeated \(k\) times as \(Y^k\).\par
+		Thus, given the first \(n\) terms of Gijswijt’s sequence, consider concatenating them into a string which can be denoted as \(XY^k\), where \(Y\) is the largest “block” within the string that is repeated at the end and \(X\) is the rest of the string. The \((n+1)^{th}\) term is \(k\). To illustrate, let us go through the creation of the first few terms together.\par
+		
+	\end{multicols}
+	
+	\begin{figure}[h!]
+		\caption{Graph of the first few terms of Gijswijt's Sequence}
+		\centering
+		\includegraphics[width=0.8\linewidth]{Gijswijt.JPG}
+	\end{figure}
+	
+	\begin{multicols}{2}
+		
+		Originally, we have nothing and since that nothing is “repeated once” (it is the \(Y\) for this string), we write 1 as the first term. Since 1 is repeated only once so far, we write another 1. Now, as there are two 1s in succession, we write down 2. See if you can understand the rest here:\par
+		
+		\[1, 1, 2, 1, 1, 2, 2, 2, 3, 1, 1, 2, 1, 1, 2, 2, 2, 3, 2, 1, 1, 2, 1, 1, 2, \ldots\]
+		
+		Reasoning about it is not simple at first --- for example, you see how 1,1,2 appears twice and then is followed by a 2 to represent the repetition of that entire block, then by another 2 to represent the two 2s next to each other… In fact, it is this nontrivial “block and glue” structure that is key to its understanding:\par
+		Let’s refer to Gijswijt’s Sequence as \(G_1\) and then observe that the entire sequence is made up of “blocks” that are doubled and then are ended with some sort of “glue” sequence, for example the first block \(B_1\) is 1 and the first glue \(E_1\) is 2 since we begin with 1,1,2. The next block, \(B_2\), is 1,1,2 (or \(B_1B_1E_1\)) and the next glue sequence is 2,2,3. We can generalise this to larger blocks and glue sequences: \(B_{n+1} = B_nB_nS_n\) where \(S_n\) is simply defined to be the sequence of numbers starting at the end of \(B_nB_n\) and ending at the first 1 reached.\par
+		What’s interesting about this analysis is that one can combine all the glue sequences into a new infinite sequence, \(G_2\), which follows the same \((n+1)^{th}\) term rule as \(G_1\) except instead of writing the \(k\) from \(XY^k\), we write \(max\{k, 2\}\). Here are the first 25 terms:\par
+		
+		\(2, 2, 2, 3, 2, 2, 2, 3, 2, 2, 2, 3, 3, 2, 2, 2, 3, 2, 2, 2, 3, 2, 2, 2,\)\\\( 3, \ldots\)
+		
+		One can perform similar structural analysis on \(G_2\) as above and further construct a \(G_3\) and more generally, \(G_n\). We can observe that every \(G_n\) starts with \(n\) and so, perhaps surprisingly, prove that Gijswijt’s Sequence is unbounded (that is, there is no finite positive integer that does not appear at some point in the sequence). However, it should be noted that the sequence grows exceptionally slowly, with \(n\) believed to generally appear at roughly the\par
+		
+		\[2^{3^{4^{5^{\ldots^{n}}}}}\textrm{th}\]
+		
+		term and thus, despite its unboundedness, is conjectured to have a finite average!\par
+		
+		\triast
+		
+		Our next phantasmagorical sequence was first investigated by the lesser known (and yet important) combinatoricist and number theorist James Joseph Sylvester. It begins\par
+		
+		\[2, 3, 7, 43, 1807, 3263443, 10650056950807, 113423713055421844361000443, \ldots\]
+		
+		One constructs the \((n+1)^{th}\) term by taking the product of the first \(n\) terms and adding one --- you can see this above. Equivalently, one can define it, where \(s_n\) is the \(n^{th}\) term of the sequence, as\par
+		
+		\[s_n = s_{n-1}*(s_{n-1}-1)+1 \textrm{ with } s_0 = 2\]
+		
+	\end{multicols}
+	
+	\begin{figure}[h!]
+		\caption{Graph of the first few terms of Sylvester's Sequence}
+		\centering
+		\includegraphics[width=0.8\linewidth]{Sylvester.JPG}
+	\end{figure}
+	
+	\begin{multicols}{2}
+		
+		The fact that these two definitions are equivalent can be seen given some quick thought. Let us consider the sum of the reciprocals of the terms in Sylvester’s sequence. We can first see definitionally that\par
+		
+		\[\frac{1}{s_i-1}-\frac{1}{s_{i+1}-1} = \frac{1}{s_i-1}-\frac{1}{s_i(s_i-1)} = \frac{(s_i-1)}{s_i(s_i-1)}\]
+		\[ = \frac{1}{s_i}\]
+		
+		Thus, we can use the concept of telescoping (described by Euler as the “method of differences”) to see that\par
+		
+		\[\sum^{j-1}_{i=0} \frac{1}{s_i} = \sum^{j-1}_{i=0} (\frac{1}{s_i-1} -\frac{1}{s_{i+1}-1})\]
+		\[ = (\frac{1}{s_0-1} -\frac{1}{s_{j}-1}) = 1 - \frac{1}{s_{j}-1} = \frac{s_j-2}{s_{j}-1} \]
+		
+		We can deduce from the last two equivalences an impressive result: since Sylvester’s sequence obviously tends to infinity, the sum of the reciprocals of its terms tends to 1! Furthermore, the last equivalence in particular tells us that if we were to sum up to the \(j^{th}\) term in the sequence and subtract one from the last denominator, we would also get one, since\par
+		\[ \frac{s_j-2}{(s_{j}-1)-1} = 1\]
+		
+		Thus, we can see that:\par
+		
+		\[ 1 = \frac{1}{2}+\frac{1}{3}+\frac{1}{6}\]
+		\[ 1 = \frac{1}{2}+\frac{1}{3}+\frac{1}{7}+\frac{1}{42}\]
+		\[ 1 = \frac{1}{2}+\frac{1}{3}+\frac{1}{7}+\frac{1}{43}+\frac{1}{1806}\]
+		…
+		This allows us to have a different interpretation of Sylvester’s sequence: a “greedy algorithm” which at each stage, chooses the smallest \(n\) such that \(\frac{1}{n}\) plus the partial sum of the reciprocals of all the terms so far is less than one. This allows us to see that it is the fastest converging-to-one series of unit fractions and also allows us to consider other Sylvester-esque sequences. For example, what about the greedy algorithm series formed from \(s_0 = \frac{1}{4}\) and the limit being 2? I was able to compute these 6 terms on my computer:\par
+		
+		\[2, 2, 5, 21, 421, 176821, \ldots\]
+		
+		You can see that the recurrence relation that held with Sylvester’s sequence also holds here! Furthermore, if one tries to derive similar convergent sequences to rational numbers using the greedy algorithm, one will often observe a “Sylvestrine” relation. This is all due to a result obtained by modern mathematician, Badea, which states that if one has a sequence of integers \(a_n\) such that \(a_n \geq a_{n-1}^2-a_{n-1}+1\) and the sum of its reciprocals converges to some rational number, then after some finitely reachable point in the sequence the terms will follow the recurrence relation that defines Sylvester’s sequence --- there is something fundamental about it to doubly exponential series…\par
+		Investigations into its closed-form (non-recursive) representation have led to the surprising discovery that there exists what we shall name the Sylvester Constant \(E\) such that\par
+		
+		\[s_n = \left \lceil{E^{2^{n+1}}+\frac{1}{2}}\right \rceil\]
+		
+		with \(E = 1.26408\ldots\).
+		
+		\triast
+		
+		We finish off with a fun sequence investigated by the British mathematical jack-of-all-trades, John Horton Conway. He recalls that a student once excitedly thrust a sheet of paper under his nose with these 5 terms on it:\par
+		
+		\[1, 11, 21, 1211, 111221, \ldots\]
+		
+		and he was asked to guess the next number in the sequence. He was not able to do this, however, and after some guesses and deliberation the student revealed to him the rule for constructing the rest of the sequence. What he called the Look and Say numbers were made by reading through the previous term, counting those groups of consecutive numbers which are the same. For example, starting with “1”, we would say that there is “One 1” and thus the next term is “11”. For something more complicated like “1211”, we say there is one “1”, followed by one “2” and then a final grouping of two “1”s: thus “11 12 21” concatenated, or “111221”.\par
+		
+		\begin{figure}[h!]
+			\caption{Graph of the first few terms of Look and Say}
+			\centering
+			\includegraphics[width=0.8\linewidth]{LookAndSay.JPG}
+		\end{figure}
+		
+		Conway took some time later to investigate the properties of this seemingly arbitrary recurrence relation and the many sequences that one could generate from different starting integers. What was immediately apparent was that any sequence apart from the anomalous “22, 22, 22, \ldots” would be divergent (tend to infinity) and that for any digit \(n \neq 1\), the sequence would be
+		
+		\[n, 1n, 111n, 311n, 13211n, \ldots\]
+		
+		with \(n\) forever staying at the end. He then came upon and proved two remarkable results, which he published in his brilliantly titled paper The Weird and Wonderful Chemistry of Audioactive Decay. The first was the celebrated Cosmological Theorem, which states that after some finite point, any look-and-say sequence splits into a discrete grouping of strings, whose dynamics are independent beyond this point. It turns out that there are only 92 of such strings that only involve 1s, 2s \& 3s, so he called them “elements” (after all, how many naturally occur?) and referred to this process of sequence bifurcation as “audioactive decay”. The elements involving digits other than just 1, 2 or 3 were called “transuranic” since their abundance in a given \(n\)-length string tends to zero as \(n\) tends to infinity (they don’t change beyond just appearing as “\(1n\)”). Transuranic elements in real life have an extremely short half-life, so this further extends the wit of the nomenclature!\par
+		The table of elements is too large to be shown here (having 92 rows!) but I urge you to look it up! After all, the mechanics of any look-and-say sequence is after a point (maximally, the 8th term) completely determined by these elements and furthermore, by examining the lengths of all the elements, we can precisely predict the change in the length of the term.\par
+		Suppose we construct a 92 by 92 matrix in which entry \((x, y)\) is equivalent to the product of the number of times the \(x^{th}\) “element” appears in the decay-successor to the \(y^{th}\) “element” and the ratio of the lengths of the \(x^{th}\) and \(y^{th}\) “element”s. Then, consider representing the length of a given term \(T\) in a look-and-say sequence as a vector whose \(n^th\) item is the length of the \(n^{th}\) “element” multiplied by the number of times it appears in \(T\).\par
+		By multiplying the “length vector” by the matrix, we get a new vector which encodes the length of what would be the next term in the look-and-say sequence. From this, Conway was able to calculate an invariant of the matrix known as its characteristic polynomial. This allowed him to deduce a new theorem…\par
+		If one looks at look-and-say sequence terms’ lengths, you can see that they increase exponentially. Below is a logarithmically-scaled graph of the length of terms in the traditional look-and-say sequence starting with 1.\par
+		
+	\end{multicols}
+	
+	\begin{figure}
+		\caption{Logarithmic graph of a length of Look and Say terms}
+		\centering
+		\includegraphics[width=0.5\linewidth]{LookAndSayLength.JPG}
+	\end{figure}
+	
+	\begin{multicols}{2}
+		
+		The amazingly straight line means that the length of terms scales by an almost constant value, due to the logarithmic scale on the y-axis, across the sequence. This is intriguing --- basic investigation reveals that it is roughly 30\% increase each term. What Conway deduced from the characteristic polynomial of the aforementioned matrix was the precise value of this scale factor, 1.303577269\ldots, which is its only positive real root!\par
+		This astounding result suggests that the look-and-say generation rule, far from being arbitrary, is apparently very ordered. It led to Conway proclaiming that this investigation was the “most complicated solution to the simplest problem” that he had ever seen.\par
+		To conclude, I wanted to mention an amazing resource which slips beneath the radars of full-time and recreational mathematicians alike at our age: the Online Encyclopaedia of Integer Sequences. Nearly all the terms and sequences mentioned in this article I only found out due to the OEIS; most of the graphs in this article were taken from the OEIS’s graph tool for sequences. The OEIS was set up in the 2000s as the result of a 40-year project that had been run by Neil Sloane, a number theorist particularly interested in integer sequences --- indeed, the title of this article is taken from a talk of the same name given to a computer science group at Princeton University this year.\par
+		The OEIS has reference codes for all its sequences in the form “AXXXXXX”, which allow you to easily what you are looking for on their website. For further reading or your own investigations, here are the OEIS codes for the sequences mentioned in this article:
+		
+		\begin{itemize}
+			\item{\textit{Kolakoski Sequence}, A000002}
+			\item{\textit{Gijswijt’s Sequence}, A090822}
+			\item{\textit{Sylvester’s Sequence}, A000058}
+			\item{\textit{Look-and-say Sequence} (starting with 1), A005150}
+		\end{itemize}
+		
+		Finally, we couldn’t finish an ARM article without challenges. As per usual, this article was written by Isky Mathews but feel free to email your answers to the other author Benedict Randall Shaw.
+		
+		Challenge IV:
+		\begin{enumerate}
+			\item{Investigate other “Sylvestrine” greedy sequences as mentioned --- can you create an infinite number of different representations of the number they converge to as finite sums of unit fractions like above?}
+			\item{Create a formula for the \(n^{th}\) term of the traditional Kolakoski Sequence (it can be recursive!). Using this, record the relative frequency of 1s and 2s in the sequence up to some large \(n\) via a computer program implementation. Make a conjecture of what fraction of the sequence’s terms are 1s based on this.}
+		\end{enumerate}
+		
+	\end{multicols}
+	
+	\chapter{Music}
+	
+	\begin{multicols}{2}
+		
+		On the next few pages, an excerpt from Benedict Randall Shaw's Sonata No. 1 «L'Algorithmique» is published. A full copy will be available at a later date. Details will be published in the Editor's Note, or in the Music section.
+		
+	\end{multicols}	
+	
+	\includepdf[pages={1-9}]{combined.pdf}
+	
+	\includepdf[pages={2}]{cover.pdf}
+	
+\end{document}

@@ -1,0 +1,31 @@
+\contentsline {chapter}{\numberline {1}Library}{3}
+\contentsline {section}{\numberline {1.1}Library news}{3}
+\contentsline {section}{\numberline {1.2}Editor's note}{3}
+\contentsline {subsection}{\numberline {1.2.1}Contents}{3}
+\contentsline {subsection}{\numberline {1.2.2}General notice}{4}
+\contentsline {chapter}{\numberline {2}Dialectic}{5}
+\contentsline {section}{\numberline {2.1}On former politicians' prosecution}{5}
+\contentsline {subsection}{\numberline {2.1.1}Bibliography}{8}
+\contentsline {chapter}{\numberline {3}Review}{10}
+\contentsline {section}{\numberline {3.1}Lectures}{10}
+\contentsline {subsection}{\numberline {3.1.1}Note}{10}
+\contentsline {subsection}{\numberline {3.1.2}Stipatores Honorati}{10}
+\contentsline {subsection}{\numberline {3.1.3}Wireless Circuits in the Age of the Internet of Things}{11}
+\contentsline {subsection}{\numberline {3.1.4}What's the wrong thing to do?}{12}
+\contentsline {subsection}{\numberline {3.1.5}The Gladstone Problem}{13}
+\contentsline {subsubsection}{Religion}{13}
+\contentsline {subsubsection}{Ireland}{13}
+\contentsline {subsubsection}{Legacy}{13}
+\contentsline {subsubsection}{Historiography}{13}
+\contentsline {subsubsection}{Gladstone's motives}{14}
+\contentsline {subsubsection}{Conclusion}{14}
+\contentsline {section}{\numberline {3.2}Stephen Chbosky's \textit {The Perks of Being a Wallflower}}{15}
+\contentsline {subsection}{\numberline {3.2.1}Plot}{15}
+\contentsline {subsection}{\numberline {3.2.2}Analysis}{16}
+\contentsline {subsection}{\numberline {3.2.3}Conclusion}{16}
+\contentsline {chapter}{\numberline {4}Sciences and Mathematics}{17}
+\contentsline {section}{\numberline {4.1}Introduction to Areal Co\IeC {\"o}rdinates}{17}
+\contentsline {subsection}{\numberline {4.1.1}Question}{18}
+\contentsline {subsection}{\numberline {4.1.2}Solution}{18}
+\contentsline {section}{\numberline {4.2}Adventures in recreational mathematics IV: confessions of a sequence addict}{20}
+\contentsline {chapter}{\numberline {5}Music}{26}
