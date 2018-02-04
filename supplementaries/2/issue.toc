@@ -1,0 +1,83 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\addvspace {-10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Editorial}{2}
+\defcounter {refsection}{0}\relax 
+\addvspace {-10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Miscellany}{3}
+\defcounter {refsection}{0}\relax 
+\addvspace {-10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}ARM V: Mathematicians' Adventures in Wonderland}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Journeys to the Hyperbolic}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Schl\"{a}fli notation and tilings}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Higher-dimensional Hyperbolic Space, Horocycles and beyond...}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Challenge V}{10}
+\defcounter {refsection}{0}\relax 
+\addvspace {-10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}A Reintroduction to Areal Co\"ordinates}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Definitions}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Triangle centres}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Incentre}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Centroid}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Circumcentre}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Orthocentre}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Lines}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Areas}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Circles}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}Vectors \& Distances}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.7}Disclaimer}{13}
+\defcounter {refsection}{0}\relax 
+\addvspace {-10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}On Thermoacoustic Refrigeration}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Thermoacoustics}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Sound}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Standing wave}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Refrigerator}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Loudspeaker}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Working fluid}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Stack}{14}
+\defcounter {refsection}{0}\relax 
+\addvspace {-10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}How far do Isocrates and Plato agree about the teaching of rhetoric?}{15}
+\defcounter {refsection}{1}\relax 
+\contentsline {section}{\numberline {6.1}Bibliography}{18}
+\defcounter {refsection}{0}\relax 
+\addvspace {-10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Contra `The case for colonialism'}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8} Sonata in D}{22}
+\defcounter {refsection}{0}\relax 
+\addvspace {-10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Puzzles---GNU Sudoku}{29}

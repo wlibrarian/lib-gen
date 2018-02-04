@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.31)  21 OCT 2017 16:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.31)  13 JAN 2018 16:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -865,18 +865,18 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
  (./sample.aux)
 \openout1 = `sample.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -964,46 +964,317 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 <cover.pdf, id=1, 597.50786pt x 845.04686pt>
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf>
-Package pdftex.def Info: cover.pdf used on input line 51.
+Package pdftex.def Info: cover.pdf used on input line 69.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf>
-Package pdftex.def Info: cover.pdf used on input line 51.
+Package pdftex.def Info: cover.pdf used on input line 69.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 
 <cover.pdf, id=4, page=1, 597.50786pt x 845.04686pt>
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf, page1 used on input line 51.
+Package pdftex.def Info: cover.pdf, page1 used on input line 69.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 File: cover.pdf Graphic file (type pdf)
 
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf, page1 used on input line 51.
+Package pdftex.def Info: cover.pdf, page1 used on input line 69.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf, page1 used on input line 51.
+Package pdftex.def Info: cover.pdf, page1 used on input line 69.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf, page1 used on input line 51.
+Package pdftex.def Info: cover.pdf, page1 used on input line 69.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: cover.pdf Graphic file (type pdf)
 
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf, page1 used on input line 51.
+Package pdftex.def Info: cover.pdf, page1 used on input line 69.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
  [1
 
  <./cover.pdf>]
 Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+\OT1/cmr/m/n/12 hope you en-joy it!
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+\OT1/cmr/m/n/12 Li-brary Com-mit-tee's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+\OT1/cmr/m/n/12 monthly mag-a-zine,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]\OT1/cmr/m/n/12 The Li-brary is the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\OT1/cmr/m/n/12 his-tor-i-cally im-por-tant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+\OT1/cmr/m/n/12 the vault-ing ceil-ings
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+\OT1/cmr/m/n/12 a rich ar-chi-tec-tural
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+\OT1/cmr/m/n/12 her-itage and huge
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 84--85
+\OT1/cmr/m/n/12 oth-ers, it's a quiet,
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 90--91
+[]\OT1/cmr/m/n/12 If you are new to
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 96--97
+\OT1/cmr/m/n/12 back books, help-ing
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 96--97
+\OT1/cmr/m/n/12 is a very en-joy-able,
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 98--99
+\OT1/cmr/m/n/12 bil-ity to give back,
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 100--101
+\OT1/cmr/m/n/12 ex-cit-ing and for-ward
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\OT1/cmr/m/n/12 think-ing pub-li-ca-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\OT1/cmr/m/n/12 tak-ing con-tri-bu-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\OT1/cmr/m/n/12 mem-bers and other
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+\OT1/cmr/m/n/12 and high stan-dards.
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 100--101
+\OT1/cmr/m/n/12 email the ed-i-tor at
+ []
+
+
+Overfull \hbox (39.91371pt too wide) in paragraph at lines 100--101
+\OT1/cmr/m/n/12 joshua.loo@westminster.org.uk. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+[]\OT1/cmr/m/n/12 If you are in-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+\OT1/cmr/m/n/12 Li-brary Com-mit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+\OT1/cmr/m/n/12 tee, email me at
+ []
+
+
+Overfull \hbox (64.32735pt too wide) in paragraph at lines 102--103
+\OT1/cmr/m/n/12 jonny.heywood@westminster.org.uk,
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 102--103
+\OT1/cmr/m/n/12 or just ask me in
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 108--109
+\OT1/cmr/m/n/12 lo-cated at $\OT1/cmtt/m/n/12 https : / /
+ []
+
+
+Overfull \hbox (25.10423pt too wide) in paragraph at lines 108--109
+\OT1/cmtt/m/n/12 oliver\OML/cmm/m/it/12 :\OT1/cmtt/m/n/12 westminster\OML/cmm/m
+/it/12 :\OT1/cmtt/m/n/12 org\OML/cmm/m/it/12 :\OT1/cmtt/m/n/12 uk$
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 108--109
+\OT1/cmr/m/n/12 li-brar-i-ans are al-ways
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+\OT1/cmr/m/n/12 which are avail-able
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 112--113
+\OT1/cmr/m/n/12 fly page - $\OT1/cmtt/m/n/12 http : / /
+ []
+
+
+Overfull \hbox (37.45424pt too wide) in paragraph at lines 112--113
+\OT1/cmtt/m/n/12 firefly\OML/cmm/m/it/12 :\OT1/cmtt/m/n/12 westminster\OML/cmm/
+m/it/12 :\OT1/cmtt/m/n/12 org\OML/cmm/m/it/12 :\OT1/cmtt/m/n/12 uk /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+\OT1/cmtt/m/n/12 library$ \OT1/cmr/m/n/12 or Fire-fly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+\OT1/cmr/m/n/12 > Re-sources > De-
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 112--113
+\OT1/cmr/m/n/12 part-ments > Li-brary.
+ []
+
+
+Underfull \hbox (badness 7631) in paragraph at lines 112--113
+\OT1/cmr/m/n/12 On-line re-sources are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+\OT1/cmr/m/n/12 JS-TOR (good for
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 112--113
+\OT1/cmr/m/n/12 archives and present
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 112--113
+\OT1/cmr/m/n/12 li-brary it-self re-ceives
+ []
+
+
+Overfull \vbox (1706.22241pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (1706.22241pt too high) has occurred while \output is active []
+
+
 [2
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (33.27223pt too wide) in paragraph at lines 82--83
-\OT1/cmr/m/n/12 mit-tee, email me at jonny.heywood@westminster.org.uk,
+Underfull \hbox (badness 5847) in paragraph at lines 122--123
+\OT1/cmr/m/n/12 be less than 10,000
  []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[]\OT1/cmr/m/it/12 The Li-brar-ian \OT1/cmr/m/n/12 also
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\OT1/cmr/m/it/12 Li-brar-ian \OT1/cmr/m/n/12 has been
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\OT1/cmr/m/n/12 read-ers may no-tice.
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 126--127
+\OT1/cmr/m/n/12 This is largely due
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\OT1/cmr/m/n/12 to in-spi-ra-tion from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\OT1/cmr/m/n/12 su-pererogo-tar-ily sub-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\OT1/cmr/m/n/12 ational Math-e-mat-ics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\OT1/cmr/m/n/12 turn, thanks to a
+ []
+
+
+Underfull \hbox (badness 5460) in paragraph at lines 128--129
+\OT1/cmr/m/n/12 form the team who
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+[]\OT1/cmr/m/n/12 Sciences and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\OT1/cmr/m/n/12 set in L[]T[]X, with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\OT1/cmr/m/n/12 Lato and Com-puter
+ []
+
+
+Underfull \hbox (badness 5460) in paragraph at lines 150--151
+[]\OT1/cmr/m/n/12 A num-ber of ed-i-to-
+ []
+
+
+Overfull \vbox (14.77338pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (14.77338pt too high) has occurred while \output is active []
+
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1012,25 +1283,879 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [3]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[4]
 Chapter 2.
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 5 might be wrong on input line 212.
+Underfull \hbox (badness 10000) in paragraph at lines 168--177
+\OT1/cmr/m/n/12 fatu-ously at-tacked
+ []
 
 
-[5
+Underfull \hbox (badness 10000) in paragraph at lines 168--177
+\OT1/cmr/m/n/12 com-mit three sins.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--177
+\OT1/cmr/m/n/12 wringing or ac-tual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--177
+\OT1/cmr/m/n/12 em-braces sub-stan-tive
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 168--177
+\OT1/cmr/m/n/12 di-a-logue rather than
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+\OT1/cmr/m/n/12 used, we come up
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+\OT1/cmr/m/n/12 defin-ing a way to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+\OT1/cmr/m/n/12 ex-clude some but
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+\OT1/cmr/m/n/12 in-clude oth-ers with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+\OT1/cmr/m/n/12 and ac-cu-rate brush;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--183
+\OT1/cmr/m/n/12 ap-ply from dif-fer-ent
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 186--187
+[]\OT1/cmr/m/n/12 The head-mas-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+\OT1/cmr/m/n/12 at-tacked Trump
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+\OT1/cmr/m/n/12 and pro-tec-tion-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+\OT1/cmr/m/n/12 ism in Latin
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 187--188
+[]\OT1/cmr/m/n/12 The head-mas-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+\OT1/cmr/m/n/12 Ar-me-nian geno-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--232
+\OT1/cmr/m/n/12 which de-parts from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--232
+\OT1/cmr/m/n/12 things which should
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--232
+\OT1/cmr/m/n/12 be es-tab-lished; in
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 192--232
+\OT1/cmr/m/n/12 turn, this re-lies on
+ []
+
+
+Underfull \hbox (badness 7631) in paragraph at lines 192--232
+\OT1/cmr/m/n/12 the as-sump-tion that
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 192--232
+\OT1/cmr/m/n/12 truth. Given this,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--232
+\OT1/cmr/m/n/12 is it-self de-sir-able.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--232
+\OT1/cmr/m/n/12 Fi-nally, re-ply, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--232
+\OT1/cmr/m/n/12 peo-ple recog-nise its
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+[]\OT1/cmr/m/n/12 Protectionism's lack
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 of ef-fi-cacy has not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 been es-tab-lished in
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 three ways. First,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 it is un-clear which
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 used to de-ter-mine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 A ``util-i-tar-i-an-ism of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 util-i-tar-i-an-ism, Rawl-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 ``in-formed neu-tral-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 be-tween rea-son-able
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 eth-i-cal po-si-tions'', it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 Amer-i-can tar-iffs in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 the 19$[]$ and early
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 20$[]$ cen-tury, South
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 of other ex-am-ples;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 this in-dus-tri-al-i-sa-tion
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 and the con-comi-tant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 re-duc-tion of hu-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 mis-ery are pre-sum-
+ []
+
+
+Underfull \hbox (badness 7451) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 for the school, nor
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 en-tails, in go-ing to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 to the head-mas-ter's
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 in its full mus-cu-lar
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 233--258
+\OT1/cmr/m/n/12 ``glory''. Hence in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--261
+\OT1/cmr/m/n/12 those who wish to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--261
+\OT1/cmr/m/n/12 been es-tab-lished, in
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 262--275
+\OT1/cmr/m/n/12 evitably ex-ist un-less
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--284
+\OT1/cmr/m/n/12 these views mustn't
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--284
+\OT1/cmr/m/n/12 and ad-min-is-tra-tive
+ []
+
+
+Underfull \hbox (badness 6141) in paragraph at lines 276--284
+\OT1/cmr/m/n/12 he says is not the
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 285--307
+\OT1/cmr/m/n/12 sense - the im-part-
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 318--324
+\OT1/cmr/m/n/12 and re-lat-edly, views
+ []
+
+
+Underfull \hbox (badness 6910) in paragraph at lines 325--331
+\OT1/cmr/m/n/12 ply to the as-sump-
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 325--331
+\OT1/cmr/m/n/12 and any other top-
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 325--331
+\OT1/cmr/m/n/12 ics dur-ing all com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
+|\OT1/cmr/bx/n/12 Neutrality: a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--345
+\OT1/cmr/m/n/12 Lib-erty Uni-ver-sity's
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 335--345
+\OT1/cmr/m/n/12 sory school meet-ings
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 335--345
+\OT1/cmr/m/n/12 ought to sim-ply be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--345
+\OT1/cmr/m/n/12 about school - fire
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--345
+\OT1/cmr/m/n/12 drills, timetabling,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--345
+\OT1/cmr/m/n/12 ed-u-ca-tional minu-tiae.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--345
+\OT1/cmr/m/n/12 This has a cer-tain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--345
+\OT1/cmr/m/n/12 from vac-u-ous hand-
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 349--350
+[]\OT1/cmr/m/n/12 Compulsory dis-course
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--396
+[]\OT1/cmr/m/n/12 Third, it alien-ates
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 suf-fi-ciently co-er-cive
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 to cause re-sent-ment.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 This re-sent-ment is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 com-pounded by the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 un-needed di-alec-tic
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 lis-ten-ing - they are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 terly pro-nounce-ments
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 max-imise the mis-ery
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 of the un-in-ter-ested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 the like-li-hood that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 in-ter-est, which will
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--396
+\OT1/cmr/m/n/12 pro-duce a su-pe-rior
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 397--406
+[]\OT1/cmr/m/n/12 This harm must be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--406
+\OT1/cmr/m/n/12 weighed against the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--406
+\OT1/cmr/m/n/12 The ben-e-fit is not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--406
+\OT1/cmr/m/n/12 and make op-pressed
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 397--406
+\OT1/cmr/m/n/12 racial mi-nori-ties feel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--406
+\OT1/cmr/m/n/12 to use in-sti-tu-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--406
+\OT1/cmr/m/n/12 would be neg-a-tively
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 407--409
+\OT1/cmr/m/n/12 av-enues, such ac-tion
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 415--447
+\OT1/cmr/m/n/12 to con-tinue the ex-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--460
+\OT1/cmr/m/n/12 with his state-ments
+ []
+
+
+Underfull \hbox (badness 7504) in paragraph at lines 452--460
+\OT1/cmr/m/n/12 ever, they will not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--460
+\OT1/cmr/m/n/12 head-mas-ter's con-so-la-
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 452--460
+\OT1/cmr/m/n/12 but it is not clear
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--460
+\OT1/cmr/m/n/12 in other places, at
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 452--460
+\OT1/cmr/m/n/12 the eco-nomics which
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--478
+[]\OT1/cmr/m/n/12 Second, those who
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--478
+\OT1/cmr/m/n/12 This is prob-lem-atic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--478
+\OT1/cmr/m/n/12 ame-lio-rates learn-ing,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--478
+\OT1/cmr/m/n/12 ad-min-is-tra-tion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--478
+\OT1/cmr/m/n/12 sys-temic harms like
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 461--478
+\OT1/cmr/m/n/12 be in-de-pen-dently be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--478
+\OT1/cmr/m/n/12 vi-o-lates the sec-ond
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--492
+[]\OT1/cmr/m/n/12 Third, this harm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--492
+\OT1/cmr/m/n/12 is com-pounded by
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 479--492
+\OT1/cmr/m/n/12 an in-nate ado-les-cent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--492
+\OT1/cmr/m/n/12 con-trar-i-an-ism, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--492
+\OT1/cmr/m/n/12 un-jus-ti-fi-ably per-mits
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--492
+\OT1/cmr/m/n/12 lib-eral or-tho-doxy to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--492
+\OT1/cmr/m/n/12 al-lows his lack of
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 497--502
+\OT1/cmr/m/n/12 por-tance. Con-sider
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--507
+\OT1/cmr/m/n/12 math-e-mati-cians take
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 508--514
+[]\OT1/cmr/m/n/12 Given this, ``neu-tral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--514
+\OT1/cmr/m/n/12 tain di-alec-tic state-
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 508--514
+\OT1/cmr/m/n/12 ments them-selves as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--514
+\OT1/cmr/m/n/12 These are in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--514
+\OT1/cmr/m/n/12 state-ments - ``$\OML/cmm/m/it/12 x$ \OT1/cmr/m/n/12 is
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 508--514
+\OT1/cmr/m/n/12 be mapped to ``one
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--514
+\OT1/cmr/m/n/12 ought to pri-ori-tise
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 508--514
+\OT1/cmr/m/n/12 be mapped to ``one
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--527
+\OT1/cmr/m/n/12 a com-mu-nity agrees
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--527
+\OT1/cmr/m/n/12 ``ed-u-ca-tion is utile'',
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--527
+\OT1/cmr/m/n/12 ``stu-dents will take
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--527
+\OT1/cmr/m/n/12 GCSE ex-am-i-na-tions''
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 520--527
+\OT1/cmr/m/n/12 and ``wa-ter will be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--527
+\OT1/cmr/m/n/12 re-minders, clar-i-fi-ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--527
+\OT1/cmr/m/n/12 spe-cific ref-er-ence or
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 520--527
+\OT1/cmr/m/n/12 prin-ci-ples enu-mer-ated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--527
+\OT1/cmr/m/n/12 the im-ple-men-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--527
+\OT1/cmr/m/n/12 or ``ought'' oughtn't
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--548
+\OT1/cmr/m/n/12 con-sti-tute agree-ment.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--548
+\OT1/cmr/m/n/12 At-ten-dance of this
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--548
+\OT1/cmr/m/n/12 and schoolchil-dren[].
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 528--548
+\OT1/cmr/m/n/12 means, for ex-am-ple,
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 555--562
+[]\OT1/cmr/m/n/12 Fourth, in a school
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--562
+\OT1/cmr/m/n/12 en-vi-ron-ment, cer-tain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--562
+\OT1/cmr/m/n/12 things are nec-es-sar-
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 555--562
+\OT1/cmr/m/n/12 of the for-mer three
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--562
+\OT1/cmr/m/n/12 ac-cept main-stream
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 555--562
+\OT1/cmr/m/n/12 aca-demic thought in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--562
+\OT1/cmr/m/n/12 that they teach it.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--562
+\OT1/cmr/m/n/12 at-ten-dance. It is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--562
+\OT1/cmr/m/n/12 there-fore per-mis-si-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--562
+\OT1/cmr/m/n/12 ex-ists an-thro-pogenic
+ []
+
+
+Underfull \hbox (badness 6961) in paragraph at lines 555--562
+\OT1/cmr/m/n/12 if par-ents have not
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 563--566
+\OT1/cmr/m/n/12 A rub-bish col-lec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--566
+\OT1/cmr/m/n/12 re-spect-ing re-cy-cling
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--566
+\OT1/cmr/m/n/12 sort-ing pro-ce-dures
+ []
+
+
+Underfull \hbox (badness 7631) in paragraph at lines 563--566
+\OT1/cmr/m/n/12 the prin-ci-ples es-tab-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--581
+[]\OT1/cmr/m/n/12 First, we es-tab-lish
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 five prin-ci-ples which
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 and pre-sen-ta-tion of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 di-alec-tic com-pul-so-rily
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 head-mas-ter failed to
+ []
+
+
+Underfull \hbox (badness 8075) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 prin-ci-ples at var-i-ous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 for an opt-out as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 di-alec-tic com-pul-so-rily
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 Given this sys-temic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 in-suf-fi-cient to avoid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 use ex-tra cau-tion,
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 and so the small-est
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 569--581
+\OT1/cmr/m/n/12 likely set of harms.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--596
+[]\OT1/cmr/m/n/12 There is a broader
+ []
+
+
+Underfull \hbox (badness 5161) in paragraph at lines 582--596
+\OT1/cmr/m/n/12 prob-lem here, which
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--596
+\OT1/cmr/m/n/12 sense of en-ti-tle-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--596
+\OT1/cmr/m/n/12 and so his vastly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--596
+\OT1/cmr/m/n/12 from any pre-tense
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--596
+\OT1/cmr/m/n/12 and other com-mon
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 582--596
+\OT1/cmr/m/n/12 com-plete ig-nor-ing of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--596
+\OT1/cmr/m/n/12 con-so-la-tion, for the
+ []
+
+[4
 
 ]
+Overfull \vbox (6280.70828pt too high) has occurred while \output is active []
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 6 might be wrong on input line 264.
+
+Overfull \vbox (6280.70828pt too high) has occurred while \output is active []
 
 
 
@@ -1039,10 +2164,256 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6]
+[5]
+Chapter 3.
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 7 might be wrong on input line 353.
+Underfull \hbox (badness 10000) in paragraph at lines 606--613
+\OT1/cmr/m/n/12 Is-lamic in-fe-ri-or-ity,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--613
+\OT1/cmr/m/n/12 ing up of the old
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--613
+\OT1/cmr/m/n/12 mod-ern struc-ture of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--613
+\OT1/cmr/m/n/12 of the in-stru-men-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--613
+\OT1/cmr/m/n/12 rel-e-vant to-day than
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--613
+\OT1/cmr/m/n/12 they were at their
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 614--620
+\OT1/cmr/m/n/12 u-larly novel, but it
+ []
+
+
+Underfull \hbox (badness 6477) in paragraph at lines 614--620
+\OT1/cmr/m/n/12 in-stru-men-tal ra-tio-nal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--629
+\OT1/cmr/m/n/12 sta-tus to Is-lamist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--629
+\OT1/cmr/m/n/12 ide-ol-ogy en-ables an
+ []
+
+
+Underfull \hbox (badness 7291) in paragraph at lines 621--629
+\OT1/cmr/m/n/12 canon. The book
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--629
+\OT1/cmr/m/n/12 tions the dis-tinc-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--629
+\OT1/cmr/m/n/12 West-ern in-ter-ven-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--629
+\OT1/cmr/m/n/12 and Is-lamist ji-had.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--629
+\OT1/cmr/m/n/12 and the dis-tinc-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--629
+\OT1/cmr/m/n/12 phi-los-o-phy be-tween
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 621--629
+\OT1/cmr/m/n/12 is an-other high-light.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--629
+\OT1/cmr/m/it/12 Re-sis-tance \OT1/cmr/m/n/12 con-trasts
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 637--642
+[]\OT1/cmr/m/n/12 However, Crooke ig-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+[]\OT1/cmr/m/n/12 "The Day
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 of Judge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 ment will
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 not come
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 Moslems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 fight the
+ []
+
+
+Overfull \hbox (1.43079pt too wide) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 Jews (killing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 the Jews),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 when the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 Jew will
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 hide be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 and trees.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 and trees
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 Moslems,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 Jew be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 hind me,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 come and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 kill him.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 Only the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 Gharkad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 tree, (ev-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 i-dently a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 of tree)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 would not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 do that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 644--650
+\OT1/cmr/m/n/12 be-cause it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 659--659
+[][]\OT1/cmr/m/n/10 https://www.memri.org/tv/hizbullah-sec-gen-nasrallah-warns-
+against-legalization-gay-marriage-lebanon-defends-
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 654--660
+\OT1/cmr/m/n/12 the Secretary-General
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 654--660
+\OT1/cmr/m/n/12 tion-ships were ``con-
+ []
+
+[6
+
+]
+Overfull \vbox (581.56079pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (581.56079pt too high) has occurred while \output is active []
 
 
 
@@ -1052,10 +2423,148 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [7]
+Chapter 4.
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 8 might be wrong on input line 427.
+Underfull \hbox (badness 10000) in paragraph at lines 679--680
+[]\OT1/cmr/m/n/12 DISCLAIMER: this
+ []
 
+
+Underfull \hbox (badness 5847) in paragraph at lines 679--680
+\OT1/cmr/m/n/12 pic-tures; rather, we
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--680
+\OT1/cmr/m/n/12 the re-lated field of
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 683--684
+[]\OT1/cmr/m/n/12 In com-puter sci-ence,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
+\OT1/cmr/m/n/12 one seeks to write
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
+\OT1/cmr/m/n/12 ef-fi-cient al-go-rithms,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
+\OT1/cmr/m/n/12 valu-able pro-cess-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
+\OT1/cmr/m/n/12 about most is not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
+
+ []
+
+[8
+
+] <smallgraph.png, id=66, 543.02875pt x 409.53pt>
+File: smallgraph.png Graphic file (type png)
+ <use smallgraph.png>
+Package pdftex.def Info: smallgraph.png used on input line 691.
+(pdftex.def)             Requested size: 170.71393pt x 128.74641pt.
+
+<mediumgraph.png, id=67, 533.995pt x 408.52625pt>
+File: mediumgraph.png Graphic file (type png)
+ <use mediumgraph.png>
+Package pdftex.def Info: mediumgraph.png used on input line 694.
+(pdftex.def)             Requested size: 170.71393pt x 130.60016pt.
+
+<largegraph.png, id=68, 546.04pt x 407.5225pt>
+File: largegraph.png Graphic file (type png)
+ <use largegraph.png>
+Package pdftex.def Info: largegraph.png used on input line 697.
+(pdftex.def)             Requested size: 170.71393pt x 127.40643pt.
+
+Overfull \hbox (92.96413pt too wide) in paragraph at lines 691--698
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 691--698
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
+[]\OT1/cmr/m/n/12 Consider three pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
+\OT1/cmr/m/n/12 ac-tu-ally that large.
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 701--702
+\OT1/cmr/m/n/12 the blue and green
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
+\OT1/cmr/m/n/12 for-mances even-tu-ally.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
+\OT1/cmr/m/n/12 Com-puter sci-en-tists
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 703--704
+\OT1/cmr/m/n/12 ^^B(\OML/cmm/m/it/12 g\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/c
+mr/m/n/12 ))$ if $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr
+/m/n/12 ) =
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 705--706
+\OT1/cmr/m/n/12 5\OML/cmm/m/it/12 n[] \OT1/cmr/m/n/12 + 2 []()\OML/cmm/m/it/12 
+n \OT1/cmr/m/n/12 + 11$,
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 707--708
+[]\OT1/cmr/m/n/12 In com-puter sci-ence,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+\OT1/cmr/m/n/12 about the worst-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+\OT1/cmr/m/n/12 (usu-ally) causes no
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 707--708
+\OT1/cmr/m/n/12 runs quickly, but a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
+\OT1/cmr/m/n/12 the slow-est grow-ing
+ []
+
+
+Underfull \hbox (badness 6493) in paragraph at lines 707--708
+\OT1/cmr/m/n/12 time com-plex-ity, for
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1063,23 +2572,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8]
+[9
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 9 might be wrong on input line 482.
+ <./smallgraph.png (PNG copy)> <./mediumgraph.png (PNG copy)> <./largegraph.png
+ (PNG copy)>]
+Overfull \hbox (99.88438pt too wide) in paragraph at lines 712--728
+ [] 
+ []
 
 
+Overfull \vbox (523.99875pt too high) has occurred while \output is active []
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
 
-[9]
+Overfull \vbox (523.99875pt too high) has occurred while \output is active []
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 10 might be wrong on input line 561
-.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1088,6 +2594,514 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [10]
+Underfull \hbox (badness 6428) in paragraph at lines 734--735
+\OT1/cmr/m/n/12 adds them, car-ry-ing
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 736--737
+\OT1/cmr/m/n/12 other, can be done
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 738--739
+\OT1/cmr/m/n/12 ten-million-digit num-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
+|\OT1/cmr/bx/n/12 Karatsuba's al-go-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+\OT1/cmr/m/n/12 An-drey Kol-mogorov,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+\OT1/cmr/m/n/12 a no-table So-viet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+\OT1/cmr/m/n/12 math-e-mati-cian, that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+\OT1/cmr/m/n/12 the quadratic time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+\OT1/cmr/m/n/12 com-plex-ity of long
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+\OT1/cmr/m/n/12 mul-ti-pli-ca-tion could
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+\OT1/cmr/m/n/12 other com-pu-ta-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+\OT1/cmr/m/n/12 com-plex-ity prob-lems.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 742--743
+\OT1/cmr/m/n/12 old stu-dent, found
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 746--746
+[]\OT1/cmr/m/n/12 Consider mul-ti-ply-ing
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 746--746
+\OML/cmm/m/it/12 x$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 y$ \OT1/cmr/m/n/12 do
+wn the
+ []
+
+
+Overfull \hbox (64.32199pt too wide) detected at line 747
+\OML/cmm/m/it/12 xy \OT1/cmr/m/n/12 = 2[]\OML/cmm/m/it/12 x[]y[] \OT1/cmr/m/n/1
+2 + 2[](\OML/cmm/m/it/12 x[]y[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 x[]y[]\OT1/c
+mr/m/n/12 ) + \OML/cmm/m/it/12 x[]y[]
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 747--749
+\OT1/cmr/m/n/12 of mul-ti-pli-ca-tion has
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 747--749
+\OT1/cmr/m/n/12 di-vid-u-ally; then one
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+\OT1/cmr/m/n/12 can be solved by
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 750--751
+\OT1/cmr/m/n/12 the mas-ter the-o-rem,
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 750--751
+\OT1/cmr/m/n/12 which tells us that,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+\OT1/cmr/m/n/12 ^^B(\OML/cmm/m/it/12 n[]log[]n\OT1/cmr/m/n/12 )$; and
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 750--751
+\OT1/cmr/m/n/12 of the sub-prob-lems),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 752--753
+\OT1/cmr/m/n/12 dropped the ceil-ing
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 752--753
+\OT1/cmr/m/n/12 The mas-ter the-o-rem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 752--753
+\OT1/cmr/m/n/12 then tells us that
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 754--754
+[]\OT1/cmr/m/n/12 What Karat-suba hit
+ []
+
+
+Overfull \hbox (64.32199pt too wide) detected at line 754
+\OML/cmm/m/it/12 xy \OT1/cmr/m/n/12 = 2[]\OML/cmm/m/it/12 x[]y[] \OT1/cmr/m/n/1
+2 + 2[](\OML/cmm/m/it/12 x[]y[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 x[]y[]\OT1/c
+mr/m/n/12 ) + \OML/cmm/m/it/12 x[]y[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--755
+\OT1/cmr/m/n/12 could be cal-cu-lated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--755
+\OT1/cmr/m/n/12 mul-ti-pli-ca-tions, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--755
+\OT1/cmr/m/n/12 gives us $\OML/cmm/m/it/12 T\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n
+\OT1/cmr/m/n/12 ) =
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 756--757
+\OT1/cmr/m/n/12 ten-million-digit num-
+ []
+
+
+Underfull \hbox (badness 5667) in paragraph at lines 759--760
+\OT1/cmr/m/n/12 de-scribed a gen-er-al-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 759--760
+\OT1/cmr/m/n/12 of split-ting num-bers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 759--760
+\OT1/cmr/m/n/12 poly-no-mi-als, which
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 759--760
+\OT1/cmr/m/n/12 Sch^^?onhage-Strassen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 759--760
+\OT1/cmr/m/n/12 al-go-rithm, which is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+[]\OT1/cmr/m/n/12 Long mul-ti-pli-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 time com-plex-ity $=
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 and has time com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 In gen-eral, Toom-$\OML/cmm/m/it/12 k$
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 has time com-plex-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 ^^B(\OML/cmm/m/it/12 c\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 k\OT1/c
+mr/m/n/12 )\OML/cmm/m/it/12 n[]\OT1/cmr/m/n/12 )$,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 where $\OML/cmm/m/it/12 c\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 k\OT
+1/cmr/m/n/12 )$ is the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 and mul-ti-pli-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 by small con-stants.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 Un-for-tu-nately, the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 func-tion $\OML/cmm/m/it/12 c\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 
+k\OT1/cmr/m/n/12 )$ grows
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 Knuth has made a
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 ta-tion that runs in
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 ^^B(\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 2[] [] []\OML/cmm/m/it/12
+ n\OT1/cmr/m/n/12 )$ Due
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 to over-head, Toom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 761--762
+\OT1/cmr/m/n/12 3 as an ex-am-ple;
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 763--765
+\OML/cmm/m/it/12 x$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 y$ \OT1/cmr/m/n/12 (w
+e'll use
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 770--771
+\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 ) = \OML/c
+mm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 )\OML/cmm/m/it/1
+2 Q\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 )$,
+ []
+
+
+Overfull \hbox (16.64337pt too wide) detected at line 771
+\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 1) = \OM
+L/cmm/m/it/12 z[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 + \
+OML/cmm/m/it/12 z[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 +
+ \OML/cmm/m/it/12 z[]
+ []
+
+
+Overfull \hbox (6.92088pt too wide) detected at line 773
+\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 (1) = \OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 + 
+\OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 + \
+OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 z[]
+ []
+
+
+Overfull \hbox (36.29558pt too wide) detected at line 774
+\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 (2) = 16\OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 
++ 8\OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 + 4\OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12
+ + 2\OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 z[]
+ []
+
+
+Overfull \hbox (28.37961pt too wide) detected at line 779
+\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 (1) + \OML/cmm/m/it/12 R\OT1/cmr/m/n/12 (\OMS
+/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 1) = 2\OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 + 2\
+OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 + 2\OML/cmm/m/it/12 z[]
+ []
+
+
+Overfull \hbox (18.48804pt too wide) detected at line 780
+[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 z[
+] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 z[]
+ []
+
+
+Overfull \hbox (18.87717pt too wide) detected at line 781
+[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 z[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it
+/12 z[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 z[]
+ []
+
+
+Overfull \hbox (3.3521pt too wide) detected at line 782
+\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 (1) \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 R\O
+T1/cmr/m/n/12 (\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 1) = 2\OML/cmm/m/it/12 z[] \
+OT1/cmr/m/n/12 + 2\OML/cmm/m/it/12 z[]
+ []
+
+
+Overfull \hbox (36.87927pt too wide) detected at line 783
+\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 (2) \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 16\O
+ML/cmm/m/it/12 z[] \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 4\OML/cmm/m/it/12 z[] \
+OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 z[] \OT1/cmr/m/n/12 = 8\OML/cmm/m/it/12 z[
+] \OT1/cmr/m/n/12 + 2\OML/cmm/m/it/12 z[]
+ []
+
+
+Overfull \hbox (96.90813pt too wide) detected at line 784
+\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 (2) \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 16\O
+ML/cmm/m/it/12 z[] \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 4\OML/cmm/m/it/12 z[] \
+OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 z[] \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 (
+\OML/cmm/m/it/12 R\OT1/cmr/m/n/12 (1) \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 R\O
+T1/cmr/m/n/12 (\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 1)) = 6\OML/cmm/m/it/12 z[]
+ []
+
+
+Overfull \hbox (120.09944pt too wide) detected at line 785
+[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 z[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 787--789
+\OT1/cmr/m/n/12 From this we have
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 787--789
+\OT1/cmr/m/n/12 eas-ily use bit shifts
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 787--789
+\OT1/cmr/m/n/12 we have only used
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 787--789
+\OT1/cmr/m/n/12 5 mul-ti-pli-ca-tions of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 787--789
+\OT1/cmr/m/n/12 a mul-ti-pli-ca-tion of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 787--789
+\OT1/cmr/m/n/12 the mas-ter the-o-rem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+[]\OT1/cmr/m/n/12 In 1971, Arnold
+ []
+
+
+Underfull \hbox (badness 7631) in paragraph at lines 790--791
+\OT1/cmr/m/n/12 Strassen cre-ated the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+\OT1/cmr/m/n/12 Sch^^?onhage-Strassen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+\OT1/cmr/m/n/12 al-go-rithm, which
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 790--791
+\OT1/cmr/m/n/12 has time com-plex-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+\OT1/cmr/m/n/12 Cook for in-te-gers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+\OT1/cmr/m/n/12 num-bers into dig-its
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+\OT1/cmr/m/n/12 the dis-crete Fourier
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+\OT1/cmr/m/n/12 trans-form or them,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+\OT1/cmr/m/n/12 the in-verse dis-crete
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
+\OT1/cmr/m/n/12 and is bet-ter than
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
+\OT1/cmr/m/n/12 in-te-gers above $2[]$.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
+\OT1/cmr/m/n/12 An im-ple-men-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
+\OT1/cmr/m/n/12 was made in 2015
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
+\OT1/cmr/m/n/12 with run-ning time
+ []
+
+
+Underfull \hbox (badness 7704) in paragraph at lines 792--793
+\OT1/cmr/m/n/12 re-mov-ing the nested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--796
+\OT1/cmr/m/n/12 al-go-rithm and
+ []
+
+
+Overfull \hbox (0.87384pt too wide) in paragraph at lines 796--797
+[]\OT1/cmr/m/n/12 Arnold Sch^^?onhage
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+\OT1/cmr/m/n/12 and Volker
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+\OT1/cmr/m/n/12 Strassen con-jec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+\OT1/cmr/m/n/12 ture that the
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 796--797
+\OT1/cmr/m/n/12 lower bound of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+\OT1/cmr/m/n/12 time com-plex-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+\OT1/cmr/m/n/12 is $
+(\OML/cmm/m/it/12 n [] []n\OT1/cmr/m/n/12 )$.
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1095,14 +3109,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [11]
-Chapter 3.
-[12
+Overfull \vbox (2883.13513pt too high) has occurred while \output is active []
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 639--639
-[][]\OT1/cmr/m/n/10 https://www.memri.org/tv/hizbullah-sec-gen-nasrallah-warns-
-against-legalization-gay-marriage-lebanon-defends-
- []
+
+Overfull \vbox (2883.13513pt too high) has occurred while \output is active []
+
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1110,153 +3121,99 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13]
-Chapter 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 663--664
-
- []
-
-[14
-
-] <smallgraph.png, id=89, 543.02875pt x 409.53pt>
-File: smallgraph.png Graphic file (type png)
- <use smallgraph.png>
-Package pdftex.def Info: smallgraph.png used on input line 671.
-(pdftex.def)             Requested size: 170.71393pt x 128.74641pt.
-
-<mediumgraph.png, id=90, 533.995pt x 408.52625pt>
-File: mediumgraph.png Graphic file (type png)
- <use mediumgraph.png>
-Package pdftex.def Info: mediumgraph.png used on input line 674.
-(pdftex.def)             Requested size: 170.71393pt x 130.60016pt.
-
-<largegraph.png, id=91, 546.04pt x 407.5225pt>
-File: largegraph.png Graphic file (type png)
- <use largegraph.png>
-Package pdftex.def Info: largegraph.png used on input line 677.
-(pdftex.def)             Requested size: 170.71393pt x 127.40643pt.
-
-Overfull \hbox (5.21432pt too wide) in paragraph at lines 671--678
-[]$[]$ $[]$ $[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 671--678
-
- []
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 15 might be wrong on input line 688
-.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[15
-
- <./smallgraph.png (PNG copy)> <./mediumgraph.png (PNG copy)> <./largegraph.png
- (PNG copy)>]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 16 might be wrong on input line 723
-.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[16]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[17]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[18]
+[12]
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf>
-Package pdftex.def Info: cover.pdf used on input line 781.
+Package pdftex.def Info: cover.pdf used on input line 801.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf>
-Package pdftex.def Info: cover.pdf used on input line 781.
+Package pdftex.def Info: cover.pdf used on input line 801.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 
-<cover.pdf, id=112, page=2, 597.50786pt x 845.04686pt>
+<cover.pdf, id=92, page=2, 597.50786pt x 845.04686pt>
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf, page2 used on input line 781.
+Package pdftex.def Info: cover.pdf, page2 used on input line 801.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 File: cover.pdf Graphic file (type pdf)
 
 <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf, page2 used on input line 781.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[19]
-File: cover.pdf Graphic file (type pdf)
- <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf, page2 used on input line 781.
+Package pdftex.def Info: cover.pdf, page2 used on input line 801.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf, page2 used on input line 781.
+Package pdftex.def Info: cover.pdf, page2 used on input line 801.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: cover.pdf Graphic file (type pdf)
  <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf, page2 used on input line 781.
+Package pdftex.def Info: cover.pdf, page2 used on input line 801.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+File: cover.pdf Graphic file (type pdf)
 
-[20 <./cover.pdf>] (./sample.aux) ) 
+<use cover.pdf, page 2>
+Package pdftex.def Info: cover.pdf, page2 used on input line 801.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+ [13 <./cover.pdf>]
+
+! LaTeX Error: \begin{multicols} on input line 73 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.803 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(./sample.aux)
+
+! Package multicol Error: Document end inside multicols environment.
+
+See the multicol package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.803 \end{document}
+                    
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ )
+(\end occurred inside a group at level 2)
+
+### semi simple group (level 2) entered at line 74 (\begingroup)
+### semi simple group (level 1) entered at line 73 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 12676 strings out of 493029
- 214312 string characters out of 6136234
- 279896 words of memory out of 5000000
- 16067 multiletter control sequences out of 15000+600000
+ 12677 strings out of 493029
+ 214320 string characters out of 6136234
+ 494047 words of memory out of 5000000
+ 16068 multiletter control sequences out of 15000+600000
  10709 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,18n,48p,10357b,511s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.p
-fb>
-Output written on sample.pdf (20 pages, 3136862 bytes).
+ 37i,18n,48p,10357b,685s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on sample.pdf (13 pages, 3101464 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
+ 149 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

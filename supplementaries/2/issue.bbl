@@ -1,0 +1,514 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global}
+    \entry{gilley}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8b1b16fdb21786039bd237b36a8c264d}{%
+           family={Gilley},
+           family_i={G\bibinitperiod},
+           given={Bruce},
+           given_i={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b1b16fdb21786039bd237b36a8c264d}
+      \strng{fullhash}{8b1b16fdb21786039bd237b36a8c264d}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{08}
+      \field{issn}{0143-6597, 1360-2241}
+      \field{journaltitle}{Third World Quarterly}
+      \field{langid}{english}
+      \field{month}{09}
+      \field{title}{The Case for Colonialism}
+      \field{urlday}{13}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1080/01436597.2017.1369037
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/01436597.2017.1369037
+      \endverb
+    \endentry
+    \entry{hn}{online}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labeltitlesource}{title}
+      \field{title}{Hacker {{News Guidelines}}}
+      \field{urlday}{13}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \verb{file}
+      \verb /home/chair/.zotero/zotero/t3jot1ef.default/zotero/storage/7XB83G23/newsguidelines.html
+      \endverb
+      \verb{url}
+      \verb https://news.ycombinator.com/newsguidelines.html
+      \endverb
+    \endentry
+    \entry{slavery}{book}{}
+      \name{author}{2}{}{%
+        {{hash=e74af2fec8401e3398a7b145c68a2ba2}{%
+           family={Inikori},
+           family_i={I\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           given_i={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=818fba33b4181aecd87a7948c6ed7074}{%
+           family={Engerman},
+           family_i={E\bibinitperiod},
+           given={Stanley\bibnamedelima L.},
+           given_i={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{25cf3ca5e690d726874268ec84be3aae}
+      \strng{fullhash}{25cf3ca5e690d726874268ec84be3aae}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Debates over the economic, social, and political meaning of slavery and the slave trade have persisted for over two hundred years. The Atlantic Slave Trade brings clarity and critical insight to the subject. In fourteen essays, leading scholars consider the nature and impact of the transatlantic slave trade and assess its meaning for the people transported and for those who owned them.Among the questions these essays address are: the social cost to Africa of this forced migration; the role of slavery in the economic development of Europe and the United States; the short-term and long-term effects of the slave trade on black mortality, health, and life in the New World; and the racial and cultural consequences of the abolition of slavery. Some of these essays originally appeared in recent issues of Social Science History; the editors have added new material, along with an introduction placing each essay in the context of current debates. Based on extensive archival research and detailed historical examination, this collection constitutes an important contribution to the study of an issue of enduring significance. It is sure to become a standard reference on the Atlantic slave trade for years to come.Contributors. Ralph A. Austen, Ronald Bailey, William Darity, Jr., Seymour Drescher, Stanley L. Engerman, David Barry Gaspar, Clarence Grim, Brian Higgins, Jan S. Hogendorn, Joseph E. Inikori, Kenneth Kiple, Martin A. Klein, Paul E. Lovejoy, Patrick Manning, Joseph C. Miller, Johannes Postma, Woodruff Smith, Thomas Wilson}
+      \field{day}{30}
+      \field{eprinttype}{googlebooks}
+      \field{isbn}{978-0-8223-8237-9}
+      \field{langid}{english}
+      \field{month}{05}
+      \field{pagetotal}{425}
+      \field{shorttitle}{The {{Atlantic Slave Trade}}}
+      \field{title}{The {{Atlantic Slave Trade}}: {{Effects}} on {{Economies}}, {{Societies}} and {{Peoples}} in {{Africa}}, the {{Americas}}, and {{Europe}}}
+      \field{year}{1992}
+      \keyw{History / General}
+    \endentry
+    \entry{magazines}{article}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labeltitlesource}{title}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{The Elizabethan}
+      \field{langid}{british}
+      \field{month}{07}
+      \field{number}{3}
+      \field{title}{Magazines at {{Westminster}}}
+      \field{volume}{28}
+      \field{year}{1961}
+      \field{pages}{19}
+      \range{pages}{1}
+    \endentry
+    \entry{elizabethan76}{article}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labeltitlesource}{title}
+      \field{entrysubtype}{magazine}
+      \field{journaltitle}{The Elizabethan}
+      \field{langid}{british}
+      \field{month}{01}
+      \field{number}{684}
+      \field{title}{Magazines at {{Westminster}}}
+      \field{volume}{32}
+      \field{year}{1976}
+      \field{pages}{19}
+      \range{pages}{1}
+    \endentry
+    \entry{pop}{misc}{}
+      \list{publisher}{1}{%
+        {United Nations}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{World}} at {{Six Billion}}}
+      \field{urlday}{13}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \field{year}{1999}
+      \verb{file}
+      \verb /home/chair/.zotero/zotero/t3jot1ef.default/zotero/storage/YDGHT929/sixbilpart1.html
+      \endverb
+      \verb{url}
+      \verb https://web.archive.org/web/20160205063346/http://www.un.org/esa/population/publications/sixbillion/sixbilpart1.pdf
+      \endverb
+    \endentry
+    \entry{wolframalpha}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5d54d442adc2a0d430f0728fd6530577}{%
+           family={Weisstein},
+           family_i={W\bibinitperiod},
+           given={Eric\bibnamedelima W.},
+           given_i={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d54d442adc2a0d430f0728fd6530577}
+      \strng{fullhash}{5d54d442adc2a0d430f0728fd6530577}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In three dimensions, there are three classes of constant curvature geometries. All are based on the first four of Euclid's postulates, but each uses its own version of the parallel postulate. The "flat" geometry of everyday intuition is called Euclidean geometry (or parabolic geometry), and the non-Euclidean geometries are called hyperbolic geometry (or Lobachevsky-Bolyai-Gauss geometry) and elliptic geometry (or Riemannian geometry). Spherical geometry is a non-Euclidean...}
+      \field{langid}{english}
+      \field{title}{Non-{{Euclidean Geometry}}}
+      \field{type}{Text}
+      \field{urlday}{14}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \verb{file}
+      \verb /home/chair/.zotero/zotero/t3jot1ef.default/zotero/storage/K9UBQHXW/Non-EuclideanGeometry.html
+      \endverb
+      \verb{url}
+      \verb http://mathworld.wolfram.com/Non-EuclideanGeometry.html
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{1}
+  \sortlist[entry]{nty/global}
+    \entry{BenoitIsocratesAristotleRhetoric1990}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1a48332b30b859daafd0a003eba9b20a}{%
+           family={Benoit},
+           family_i={B\bibinitperiod},
+           given={William},
+           given_i={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a48332b30b859daafd0a003eba9b20a}
+      \strng{fullhash}{1a48332b30b859daafd0a003eba9b20a}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
+      \field{issn}{0277-3945}
+      \field{journaltitle}{Rhetoric Society Quarterly}
+      \field{number}{3}
+      \field{title}{Isocrates and {{Aristotle}} on {{Rhetoric}}}
+      \field{volume}{20}
+      \field{year}{1990}
+      \field{pages}{251\bibrangedash 259}
+      \range{pages}{9}
+      \verb{eprint}
+      \verb 3885845
+      \endverb
+    \endentry
+    \entry{BenoitIsocratesPlatoRhetoric1991}{article}{}
+      \name{author}{1}{}{%
+        {{hash=473ad846a9b6253752bc6c99572809c7}{%
+           family={Benoit},
+           family_i={B\bibinitperiod},
+           given={William\bibnamedelima L.},
+           given_i={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{473ad846a9b6253752bc6c99572809c7}
+      \strng{fullhash}{473ad846a9b6253752bc6c99572809c7}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
+      \field{issn}{0277-3945}
+      \field{journaltitle}{Rhetoric Society Quarterly}
+      \field{number}{1}
+      \field{title}{Isocrates and {{Plato}} on {{Rhetoric}} and {{Rhetorical Education}}}
+      \field{volume}{21}
+      \field{year}{1991}
+      \field{pages}{60\bibrangedash 71}
+      \range{pages}{12}
+      \verb{eprint}
+      \verb 3885281
+      \endverb
+    \endentry
+    \entry{CiceroOratore1942}{data}{}
+      \name{author}{1}{}{%
+        {{hash=c6dd4ad42eda4a72ed9944fb183c407b}{%
+           family={{Cicero}},
+           family_i={C\bibinitperiod}}}%
+      }
+      \name{translator}{2}{}{%
+        {{hash=46e801a1e05d9847d319f3796b34af60}{%
+           family={Sutton},
+           family_i={S\bibinitperiod},
+           given={E.\bibnamedelimi W.},
+           given_i={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=a94704c0de6fcb06efcad3700b69c7ba}{%
+           family={Rackham},
+           family_i={R\bibinitperiod},
+           given={H.},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{c6dd4ad42eda4a72ed9944fb183c407b}
+      \strng{fullhash}{c6dd4ad42eda4a72ed9944fb183c407b}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{De {{Oratore}}}
+      \field{urlday}{14}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \field{year}{1942}
+      \verb{doi}
+      \verb 10.4159/DLCL.marcus_tullius_cicero-de_oratore.1942
+      \endverb
+      \verb{url}
+      \verb http://www.loebclassics.com/view/marcus_tullius_cicero-de_oratore/1942/work.xml
+      \endverb
+    \endentry
+    \entry{DionysiusofHalicarnassusAncientOratorsIsocrates1974}{data}{}
+      \name{author}{1}{}{%
+        {{hash=e1aed8bae3e2257af51c289d347fadab}{%
+           family={{Dionysius\bibnamedelimb of\bibnamedelimb Halicarnassus}},
+           family_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{e1aed8bae3e2257af51c289d347fadab}
+      \strng{fullhash}{e1aed8bae3e2257af51c289d347fadab}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Ancient Orators}} 2. {{Isocrates}}}
+      \field{urlday}{14}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \field{year}{1974}
+      \verb{doi}
+      \verb 10.4159/DLCL.dionysius_halicarnassus-isocrates.1974
+      \endverb
+      \verb{url}
+      \verb http://www.loebclassics.com/view/dionysius_halicarnassus-isocrates/1974/work.xml
+      \endverb
+    \endentry
+    \entry{GrotePlatoothercompanions1867}{book}{}
+      \name{author}{1}{}{%
+        {{hash=101c39dc779e896655007b40532c4b3f}{%
+           family={Grote},
+           family_i={G\bibinitperiod},
+           given={George},
+           given_i={G\bibinitperiod}}}%
+      }
+      \name{editora}{1}{}{%
+        {{hash=b934c34ec8faae6539e89fe64b3a15c1}{%
+           family={{Kelly\bibnamedelimb -\bibnamedelimb University\bibnamedelimb of\bibnamedelimb Toronto}},
+           family_i={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {London Murray}%
+      }
+      \strng{namehash}{101c39dc779e896655007b40532c4b3f}
+      \strng{fullhash}{101c39dc779e896655007b40532c4b3f}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{editoratype}{collaborator}
+      \field{langid}{english}
+      \field{pagetotal}{594}
+      \field{title}{Plato and the Other Companions of {{Sokrates}}}
+      \field{urlday}{14}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \field{year}{1867}
+      \verb{url}
+      \verb http://archive.org/details/companionssokrat01grotuoft
+      \endverb
+      \keyw{Plato}
+    \endentry
+    \entry{contrasophists}{data}{}
+      \name{author}{1}{}{%
+        {{hash=902f908e06bbff4d69870510ed930a1a}{%
+           family={{Isocrates}},
+           family_i={I\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=e636bb30cfc09ab21cd52cfb0b24ba05}{%
+           family={Norlin},
+           family_i={N\bibinitperiod},
+           given={George},
+           given_i={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{902f908e06bbff4d69870510ed930a1a}
+      \strng{fullhash}{902f908e06bbff4d69870510ed930a1a}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discourses 13. {{Against}} the {{Sophists}}}
+      \field{urlday}{14}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \field{year}{1929}
+      \verb{doi}
+      \verb 10.4159/DLCL.isocrates-discourses_13_sophists.1929
+      \endverb
+      \verb{url}
+      \verb http://www.loebclassics.com/view/isocrates-discourses_13_sophists/1929/work.xml
+      \endverb
+    \endentry
+    \entry{IsocratesDiscourses15Antidosis1929}{data}{}
+      \name{author}{1}{}{%
+        {{hash=902f908e06bbff4d69870510ed930a1a}{%
+           family={{Isocrates}},
+           family_i={I\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=e636bb30cfc09ab21cd52cfb0b24ba05}{%
+           family={Norlin},
+           family_i={N\bibinitperiod},
+           given={George},
+           given_i={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{902f908e06bbff4d69870510ed930a1a}
+      \strng{fullhash}{902f908e06bbff4d69870510ed930a1a}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Discourses 15. {{Antidosis}}}
+      \field{urlday}{14}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \field{year}{1929}
+      \verb{doi}
+      \verb 10.4159/DLCL.isocrates-discourses_15_antidosis.1929
+      \endverb
+      \verb{url}
+      \verb http://www.loebclassics.com/view/isocrates-discourses_15_antidosis/1929/work.xml
+      \endverb
+    \endentry
+    \entry{PlatoGorgias1925}{data}{}
+      \name{author}{1}{}{%
+        {{hash=3aa3cde8444ac980b28ba1f1af3aaeb4}{%
+           family={{Plato}},
+           family_i={P\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=4bd5510519d729b3d94b644d3a10c30b}{%
+           family={Lamb},
+           family_i={L\bibinitperiod},
+           given={W.\bibnamedelimi R.\bibnamedelimi M.},
+           given_i={W\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{fullhash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gorgias}
+      \field{urlday}{14}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \field{year}{1925}
+      \verb{doi}
+      \verb 10.4159/DLCL.plato_philosopher-gorgias.1925
+      \endverb
+      \verb{url}
+      \verb http://www.loebclassics.com/view/plato_philosopher-gorgias/1925/work.xml
+      \endverb
+    \endentry
+    \entry{PlatoPhaedrus1914}{data}{}
+      \name{author}{1}{}{%
+        {{hash=3aa3cde8444ac980b28ba1f1af3aaeb4}{%
+           family={{Plato}},
+           family_i={P\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=6eca925c72d5fb7f268e9631a152fc2b}{%
+           family={Fowler},
+           family_i={F\bibinitperiod},
+           given={Harold\bibnamedelima North},
+           given_i={H\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \strng{fullhash}{3aa3cde8444ac980b28ba1f1af3aaeb4}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phaedrus}
+      \field{urlday}{14}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \field{year}{1914}
+      \verb{doi}
+      \verb 10.4159/DLCL.plato_philosopher-phaedrus.1914
+      \endverb
+      \verb{url}
+      \verb http://www.loebclassics.com/view/plato_philosopher-phaedrus/1914/work.xml
+      \endverb
+    \endentry
+    \entry{QuintilianOratorEducation2002}{data}{}
+      \name{author}{1}{}{%
+        {{hash=a799758226c8c150f8ccba586e9ffda4}{%
+           family={{Quintilian}},
+           family_i={Q\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=47d24e845a545d01734169d847424224}{%
+           family={Russell},
+           family_i={R\bibinitperiod},
+           given={Donald\bibnamedelima A.},
+           given_i={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{a799758226c8c150f8ccba586e9ffda4}
+      \strng{fullhash}{a799758226c8c150f8ccba586e9ffda4}
+      \field{sortinit}{Q}
+      \field{sortinithash}{15867262911a166ca2270ec58a0e3fe9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {{Orator}}'s {{Education}}}
+      \field{urlday}{14}
+      \field{urlmonth}{01}
+      \field{urlyear}{2018}
+      \field{year}{2002}
+      \verb{doi}
+      \verb 10.4159/DLCL.quintilian-orators_education.2002
+      \endverb
+      \verb{url}
+      \verb http://www.loebclassics.com/view/quintilian-orators_education/2002/work.xml
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

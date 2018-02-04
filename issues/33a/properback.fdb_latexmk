@@ -1,0 +1,13 @@
+# Fdb version 3
+["pdflatex"] 1516530419 "properback.tex" "properback.pdf" "properback" 1516530419
+  "/etc/texmf/web2c/texmf.cnf" 1483195442 1101 af7716885e081ab43982cab7b4672c1a ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1504183694 3859305 f6517dc192e28024b8b7160dcb25e4d8 ""
+  "properback.aux" 1516530404 8 a94a2480d3289e625eea47cd1b285758 ""
+  "properback.tex" 1516530404 80 ea7b7a808a453cf15107c243ca7032de ""
+  (generated)
+  "properback.pdf"
+  "properback.log"

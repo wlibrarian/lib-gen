@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.31)  7 NOV 2017 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.31)  14 JAN 2018 21:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,19 +23,16 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
@@ -268,7 +265,6 @@ File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
@@ -309,7 +305,6 @@ File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
 )
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
@@ -333,23 +328,18 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -364,8 +354,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks17
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \c@tracingmulticols=\count91
 \mult@box=\box26
@@ -413,8 +402,7 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \mult@nat@firstbox=\box50
 \colbreak@box=\box51
 \mc@col@check@num=\count99
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip45
 \f@ncyO@elh=\skip46
 \f@ncyO@erh=\skip47
@@ -424,8 +412,7 @@ Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
 \f@ncyO@erf=\skip51
 \f@ncyO@olf=\skip52
 \f@ncyO@orf=\skip53
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/15 v2.10.1 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip54
@@ -436,42 +423,32 @@ Package: titlesec 2016/03/15 v2.10.1 Sectioning titles
 \titlewidth=\dimen122
 \titlewidthlast=\dimen123
 \titlewidthfirst=\dimen124
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
-
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 95.
-
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count100
 ))
 \Gin@req@height=\dimen125
 \Gin@req@width=\dimen126
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count101
 \calc@Bcount=\count102
@@ -483,16 +460,12 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count103
 \calc@Cskip=\skip58
-)
-(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
-
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
@@ -509,7 +482,6 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ))
 \AM@pagewidth=\dimen129
 \AM@pageheight=\dimen130
-
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 )
@@ -517,8 +489,7 @@ File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 \AM@toc@title=\toks19
 \c@AM@survey=\count104
 \AM@templatesizebox=\box54
-)
-(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box55
 \UL@hyphenbox=\box56
 \UL@skip=\skip59
@@ -529,19 +500,14 @@ File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 \ULC@box=\box57
 Package: ulem 2012/05/18
 \ULdepth=\dimen133
-)
-(/usr/share/texlive/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
 Package: dirtytalk 2010/11/21 A package making "quoting" easier
-
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
@@ -552,25 +518,20 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
 \c@dirtytalk@qdepth=\count106
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/03 v2.15a AMS math features
 \@mathmargin=\skip60
-
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen134
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen135
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count107
@@ -610,11 +571,9 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2735.
 LaTeX Info: Redefining \] on input line 2736.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/breqn/breqn.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/breqn/breqn.sty (/usr/share/texlive/
+texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
-
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2016/01/19 v6377 L3 programming layer (code)
 L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
@@ -721,18 +680,15 @@ L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
 \l__coffin_scaled_total_height_dim=\dimen172
 \l__coffin_scaled_width_dim=\dimen173
 L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
-)
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2015/11/11 v6250 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count141
 ))
 Package: breqn 2015/08/11 v0.98d Breaking equations
-
 (/usr/share/texlive/texmf-dist/tex/latex/breqn/flexisym.sty
 Package: flexisym 2015/08/11 v0.98d Make math characters macros
 LaTeX Info: Redefining \textprime on input line 299.
 LaTeX Info: Redefining \not on input line 357.
-
 (/usr/share/texlive/texmf-dist/tex/latex/breqn/cmbase.sym
 File: cmbase.sym 2007/12/19 v0.92
 LaTeX Info: Redefining \hbar on input line 324.
@@ -758,8 +714,7 @@ LaTeX Info: Redefining \Longleftrightarrow on input line 353.
 LaTeX Info: Redefining \cdots on input line 357.
 LaTeX Info: Redefining \vdots on input line 360.
 LaTeX Info: Redefining \ddots on input line 365.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/breqn/mathstyle.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/breqn/mathstyle.sty
 Package: mathstyle 2015/08/11 v0.98d Tracking mathstyle implicitly
 LaTeX Info: Redefining \displaystyle on input line 93.
 LaTeX Info: Redefining \textstyle on input line 95.
@@ -828,12 +783,10 @@ LaTeX Info: Redefining \genfrac on input line 145.
 \cur@row=\count155
 \cur@col=\count156
 \conditionsep=\skip76
-)
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip22
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks29
 \thm@bodyfont=\toks30
@@ -844,29 +797,24 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@postskip=\skip78
 \thm@headsep=\skip79
 \dth@everypar=\toks34
-)
-(/usr/share/texlive/texmf-dist/tex/latex/epigraph/epigraph.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/epigraph/epigraph.sty
 Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
 \beforeepigraphskip=\skip80
 \afterepigraphskip=\skip81
 \epigraphwidth=\skip82
 \epigraphrule=\skip83
-)
-(/usr/share/texlive/texmf-dist/tex/generic/genmisc/nth.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/genmisc/nth.sty
 Package: nth 2002/02/27
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fbb/fbb.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fbb/fbb.sty
 Package: fbb 2015/12/08 v1.10
 
 `fbb' v1.10, 2015/12/08 Text macros for fbb, a Bembo-like font family (msharpe)
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
 (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1enc.def
 File: ly1enc.def 2009/07/22 v0.7 TeX 'n ANSI encoding (DPC/KB)
 Now handling font encoding LY1 ...
 ... processing UTF-8 mapping file for font encoding LY1
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/ly1enc.dfu
 File: ly1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
@@ -986,17 +934,14 @@ File: ly1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2122 (decimal 8482)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 105.
-
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -1010,12 +955,10 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
@@ -1151,15 +1094,12 @@ Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
 Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/ifetex/ifetex.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/ifetex/ifetex.sty
 Package: ifetex 2011/12/15 v1.2 ifetex
-
-(/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex)) (/usr/share/texliv
+e/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count157
-
 
 Package etoolbox Warning: Patching '\end' failed!
 (etoolbox)                '\AfterEndEnvironment' will not work.
@@ -1172,38 +1112,31 @@ LaTeX Info: Redefining \mdseries on input line 29.
 LaTeX Info: Redefining \rmfamily on input line 36.
 LaTeX Info: Redefining \sffamily on input line 53.
 LaTeX Info: Redefining \ttfamily on input line 70.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2014/03/23 v1.0d Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
 LaTeX Info: Redefining \scshape on input line 37.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texl
+ive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks35
 \XKV@tempa@toks=\toks36
 )
 \XKV@depth=\count158
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count159
 \cp@tempcnt=\count160
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
 \csq@reset=\count161
 \csq@gtype=\count162
@@ -1212,29 +1145,23 @@ Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
 \csq@maxlvl=\count165
 \csq@tshold=\count166
 \csq@ltx@everypar=\toks37
-
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2016/01/31 v5.1g csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
-
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/breakurl/breakurl.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/breakurl/breakurl.sty
 Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
-
 
 Package breakurl Warning: You are using breakurl while processing via pdflatex.
 
@@ -1252,7 +1179,6 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \c@count=\count168
 LaTeX Font Info:    Try loading font information for T1+fbb-TLF on input line 6
 2.
-
 (/usr/share/texlive/texmf-dist/tex/latex/fbb/T1fbb-TLF.fd
 File: T1fbb-TLF.fd 2015/08/23 (autoinst) Font definitions for T1/fbb-TLF.
 )
@@ -1260,7 +1186,7 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 62.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
- (./issue.aux)
+(./issue.aux)
 \openout1 = `issue.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
@@ -1277,21 +1203,18 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
 LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 62.
 LaTeX Font Info:    Try loading font information for LY1+ptm on input line 62.
-
 (/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
 LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 62.
-
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 62.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1346,13 +1269,10 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
@@ -1360,16 +1280,13 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
-
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box83
-
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
-
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
@@ -1377,62 +1294,56 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
 \c@mv@tabular=\count175
 \c@mv@boldtabular=\count176
-
 <cover.pdf, id=1, 597.50786pt x 845.04686pt>
 File: cover.pdf Graphic file (type pdf)
- <use cover.pdf>
+<use cover.pdf>
 Package pdftex.def Info: cover.pdf used on input line 64.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 File: cover.pdf Graphic file (type pdf)
- <use cover.pdf>
+<use cover.pdf>
 Package pdftex.def Info: cover.pdf used on input line 64.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
-
 <cover.pdf, id=4, page=1, 597.50786pt x 845.04686pt>
 File: cover.pdf Graphic file (type pdf)
- <use cover.pdf, page 1>
+<use cover.pdf, page 1>
 Package pdftex.def Info: cover.pdf, page1 used on input line 64.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 File: cover.pdf Graphic file (type pdf)
-
 <use cover.pdf, page 1>
 Package pdftex.def Info: cover.pdf, page1 used on input line 64.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: cover.pdf Graphic file (type pdf)
- <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-File: cover.pdf Graphic file (type pdf)
- <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf, page1 used on input line 64.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-File: cover.pdf Graphic file (type pdf)
-
 <use cover.pdf, page 1>
 Package pdftex.def Info: cover.pdf, page1 used on input line 64.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
- [1
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf, page1 used on input line 64.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 1>
+Package pdftex.def Info: cover.pdf, page1 used on input line 64.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+[1
 
  <./cover.pdf>]
 LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 66.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 (Font)              scaled to size 24.88pt on input line 66.
- (./issue.toc
+(./issue.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
-
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 2.
-
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write3
 \openout3 = `issue.toc'.
 
- [2
+[2
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Chapter 1.
@@ -1451,7 +1362,6 @@ LaTeX Font Info:    Font shape `T1/fbb-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 147.
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 151.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1573,10 +1483,9 @@ LaTeX Warning: Citation `acityisnotatree' on page 14 undefined on input line 61
 
 <simplegraph.png, id=81, 245.91875pt x 151.56625pt>
 File: simplegraph.png Graphic file (type png)
- <use simplegraph.png>
+<use simplegraph.png>
 Package pdftex.def Info: simplegraph.png used on input line 622.
 (pdftex.def)             Requested size: 270.3012pt x 166.6008pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1594,33 +1503,29 @@ mr/m/n/10.95 = \OMS/cmsy/m/n/10.95 ff\OML/cmm/m/it/10.95 A; B\OMS/cmsy/m/n/10.9
 
 ] <directedgraph.png, id=87, 214.8025pt x 139.52126pt>
 File: directedgraph.png Graphic file (type png)
-
 <use directedgraph.png>
 Package pdftex.def Info: directedgraph.png used on input line 639.
 (pdftex.def)             Requested size: 270.3012pt x 175.58481pt.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15 <./simplegraph.png> <./directedgraph.png>]
-<Konigsberg.png, id=91, 303.1325pt x 238.8925pt>
+[15 <./simplegraph.png> <./directedgraph.png>] <Konigsberg.png, id=91, 303.1325
+pt x 238.8925pt>
 File: Konigsberg.png Graphic file (type png)
- <use Konigsberg.png>
+<use Konigsberg.png>
 Package pdftex.def Info: Konigsberg.png used on input line 662.
 (pdftex.def)             Requested size: 270.3012pt x 213.02191pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 <Konigsberggraph.png, id=92, 501.875pt x 401.5pt>
 File: Konigsberggraph.png Graphic file (type png)
- <use Konigsberggraph.png>
+<use Konigsberggraph.png>
 Package pdftex.def Info: Konigsberggraph.png used on input line 671.
 (pdftex.def)             Requested size: 270.3012pt x 216.24925pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1643,20 +1548,17 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17 <./Konigsberg.png> <./Konigsberggraph.png>]
-<disconnectedgraph.png, id=102, 315.1775pt x 195.73125pt>
+[17 <./Konigsberg.png> <./Konigsberggraph.png>] <disconnectedgraph.png, id=102,
+ 315.1775pt x 195.73125pt>
 File: disconnectedgraph.png Graphic file (type png)
-
 <use disconnectedgraph.png>
 Package pdftex.def Info: disconnectedgraph.png used on input line 686.
 (pdftex.def)             Requested size: 270.3012pt x 167.87161pt.
- <treegraph.png, id=103, 232.87pt x 223.83624pt>
+<treegraph.png, id=103, 232.87pt x 223.83624pt>
 File: treegraph.png Graphic file (type png)
-
 <use treegraph.png>
 Package pdftex.def Info: treegraph.png used on input line 697.
 (pdftex.def)             Requested size: 270.3012pt x 259.84148pt.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1666,28 +1568,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [18 <./disconnectedgraph.png> <./treegraph.png>]
 LaTeX Font Info:    Font shape `T1/fbb-TLF/m/it' will be
 (Font)              scaled to size 9.0pt on input line 704.
-
 <bipartitetree.png, id=107, 421.575pt x 130.4875pt>
 File: bipartitetree.png Graphic file (type png)
- <use bipartitetree.png>
+<use bipartitetree.png>
 Package pdftex.def Info: bipartitetree.png used on input line 716.
 (pdftex.def)             Requested size: 270.3012pt x 83.66501pt.
-
 <k5graph.png, id=108, 281.05pt x 261.97874pt>
 File: k5graph.png Graphic file (type png)
- <use k5graph.png>
+<use k5graph.png>
 Package pdftex.def Info: k5graph.png used on input line 729.
 (pdftex.def)             Requested size: 270.3012pt x 251.97243pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 <utilitygraph.png, id=109, 310.15875pt x 174.6525pt>
 File: utilitygraph.png Graphic file (type png)
- <use utilitygraph.png>
+<use utilitygraph.png>
 Package pdftex.def Info: utilitygraph.png used on input line 738.
 (pdftex.def)             Requested size: 270.3012pt x 152.20761pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1704,10 +1602,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20 <./k5graph.png> <./utilitygraph.png>]
-<subdivision.png, id=119, 287.0725pt x 36.135pt>
+[20 <./k5graph.png> <./utilitygraph.png>] <subdivision.png, id=119, 287.0725pt 
+x 36.135pt>
 File: subdivision.png Graphic file (type png)
- <use subdivision.png>
+<use subdivision.png>
 Package pdftex.def Info: subdivision.png used on input line 763.
 (pdftex.def)             Requested size: 270.3012pt x 34.02477pt.
 
@@ -1745,7 +1643,6 @@ File: TS1fbb-TLF.fd 2015/08/23 (autoinst) Font definitions for TS1/fbb-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/fbb-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 945.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1798,150 +1695,133 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Chapter 5.
 <sonata.pdf, id=146, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf>
+<use sonata.pdf>
 Package pdftex.def Info: sonata.pdf used on input line 1255.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf>
+<use sonata.pdf>
 Package pdftex.def Info: sonata.pdf used on input line 1255.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-
 <sonata.pdf, id=149, page=1, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 1>
+<use sonata.pdf, page 1>
 Package pdftex.def Info: sonata.pdf, page1 used on input line 1255.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
 File: sonata.pdf Graphic file (type pdf)
-
 <use sonata.pdf, page 1>
 Package pdftex.def Info: sonata.pdf, page1 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
- [29
+[29
 
 ]
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 1>
-Package pdftex.def Info: sonata.pdf, page1 used on input line 1255.
-(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
-File: sonata.pdf Graphic file (type pdf)
-
 <use sonata.pdf, page 1>
 Package pdftex.def Info: sonata.pdf, page1 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 1>
+<use sonata.pdf, page 1>
 Package pdftex.def Info: sonata.pdf, page1 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
- [30 <./sonata.pdf>]
-<sonata.pdf, id=196, page=2, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 2>
-Package pdftex.def Info: sonata.pdf, page2 used on input line 1255.
+<use sonata.pdf, page 1>
+Package pdftex.def Info: sonata.pdf, page1 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+[30 <./sonata.pdf>] <sonata.pdf, id=196, page=2, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
-
 <use sonata.pdf, page 2>
 Package pdftex.def Info: sonata.pdf, page2 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 2>
+<use sonata.pdf, page 2>
 Package pdftex.def Info: sonata.pdf, page2 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
- [31 <./sonata.pdf>]
-<sonata.pdf, id=201, page=3, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 3>
-Package pdftex.def Info: sonata.pdf, page3 used on input line 1255.
+<use sonata.pdf, page 2>
+Package pdftex.def Info: sonata.pdf, page2 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+[31 <./sonata.pdf>] <sonata.pdf, id=201, page=3, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
-
 <use sonata.pdf, page 3>
 Package pdftex.def Info: sonata.pdf, page3 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 3>
+<use sonata.pdf, page 3>
 Package pdftex.def Info: sonata.pdf, page3 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
- [32 <./sonata.pdf>]
-<sonata.pdf, id=205, page=4, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 4>
-Package pdftex.def Info: sonata.pdf, page4 used on input line 1255.
+<use sonata.pdf, page 3>
+Package pdftex.def Info: sonata.pdf, page3 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+[32 <./sonata.pdf>] <sonata.pdf, id=205, page=4, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
-
 <use sonata.pdf, page 4>
 Package pdftex.def Info: sonata.pdf, page4 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 4>
+<use sonata.pdf, page 4>
 Package pdftex.def Info: sonata.pdf, page4 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
- [33 <./sonata.pdf>]
-<sonata.pdf, id=209, page=5, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 5>
-Package pdftex.def Info: sonata.pdf, page5 used on input line 1255.
+<use sonata.pdf, page 4>
+Package pdftex.def Info: sonata.pdf, page4 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+[33 <./sonata.pdf>] <sonata.pdf, id=209, page=5, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
-
 <use sonata.pdf, page 5>
 Package pdftex.def Info: sonata.pdf, page5 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 5>
+<use sonata.pdf, page 5>
 Package pdftex.def Info: sonata.pdf, page5 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
- [34 <./sonata.pdf>]
-<sonata.pdf, id=213, page=6, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 6>
-Package pdftex.def Info: sonata.pdf, page6 used on input line 1255.
+<use sonata.pdf, page 5>
+Package pdftex.def Info: sonata.pdf, page5 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+[34 <./sonata.pdf>] <sonata.pdf, id=213, page=6, 598.235pt x 845.1575pt>
 File: sonata.pdf Graphic file (type pdf)
-
 <use sonata.pdf, page 6>
 Package pdftex.def Info: sonata.pdf, page6 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
 File: sonata.pdf Graphic file (type pdf)
- <use sonata.pdf, page 6>
+<use sonata.pdf, page 6>
 Package pdftex.def Info: sonata.pdf, page6 used on input line 1255.
 (pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
- [35 <./sonata.pdf>]
+File: sonata.pdf Graphic file (type pdf)
+<use sonata.pdf, page 6>
+Package pdftex.def Info: sonata.pdf, page6 used on input line 1255.
+(pdftex.def)             Requested size: 597.7406pt x 844.45905pt.
+[35 <./sonata.pdf>]
 File: cover.pdf Graphic file (type pdf)
-
 <use cover.pdf>
 Package pdftex.def Info: cover.pdf used on input line 1257.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 File: cover.pdf Graphic file (type pdf)
- <use cover.pdf>
+<use cover.pdf>
 Package pdftex.def Info: cover.pdf used on input line 1257.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
-
 <cover.pdf, id=219, page=2, 597.50786pt x 845.04686pt>
 File: cover.pdf Graphic file (type pdf)
- <use cover.pdf, page 2>
+<use cover.pdf, page 2>
 Package pdftex.def Info: cover.pdf, page2 used on input line 1257.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 File: cover.pdf Graphic file (type pdf)
-
 <use cover.pdf, page 2>
 Package pdftex.def Info: cover.pdf, page2 used on input line 1257.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: cover.pdf Graphic file (type pdf)
- <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf, page2 used on input line 1257.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-File: cover.pdf Graphic file (type pdf)
- <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf, page2 used on input line 1257.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-File: cover.pdf Graphic file (type pdf)
-
 <use cover.pdf, page 2>
 Package pdftex.def Info: cover.pdf, page2 used on input line 1257.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
- [36 <./cover.pdf>] (./issue.aux)
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 2>
+Package pdftex.def Info: cover.pdf, page2 used on input line 1257.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+File: cover.pdf Graphic file (type pdf)
+<use cover.pdf, page 2>
+Package pdftex.def Info: cover.pdf, page2 used on input line 1257.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+[36 <./cover.pdf>] (./issue.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1965,7 +1845,7 @@ mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 /share/texlive/texmf-dist/fonts/type1/public/fbb/fbb-Bold.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/fbb/fbb-Italic.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/fbb/fbb-Regular.pfb>
-Output written on issue.pdf (36 pages, 1028278 bytes).
+Output written on issue.pdf (36 pages, 1028343 bytes).
 PDF statistics:
  256 PDF objects out of 1000 (max. 8388607)
  156 compressed objects within 2 object streams

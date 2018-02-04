@@ -11,6 +11,24 @@
 \usepackage{amsmath}
 \usepackage{breqn}
 
+\newcommand\SecTitle[1]{
+	\ifodd\value{page}{
+	\end{multicols}
+	\begin{flushleft}
+		\noindent\Huge\scshape{#1}\\
+	\end{flushleft}	
+	\vspace{0em}
+	\begin{multicols}{2}
+	}\else{
+\end{multicols}
+\begin{flushright}
+	\noindent\Huge\scshape{#1}\\
+\end{flushright}
+\vspace{0em}
+\begin{multicols}{2}
+}
+}
+
 \hyphenpenalty=2000
 \tolerance=1000
 
@@ -51,6 +69,8 @@
 \includepdf[pages={1}]{cover.pdf}
 
 \chapter{Library}
+
+\begin{multicols}{2}
 
 \section{Chair's welcome}
 

@@ -1,0 +1,9 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'issue.blg'
+[75] biber:287> INFO - === Sun Jan 21, 2018, 10:10:08
+[209] Biber.pm:348> INFO - Reading 'issue.bcf'
+[337] Biber.pm:742> INFO - Found 0 citekeys in bib section 0
+[337] Utils.pm:147> WARN - The file 'issue.bcf' does not contain any citations!
+[367] bbl.pm:519> INFO - Writing 'issue.bbl' with encoding 'UTF-8'
+[368] bbl.pm:615> INFO - Output to issue.bbl
+[368] Biber.pm:109> INFO - WARNINGS: 1
